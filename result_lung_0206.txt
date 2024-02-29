@@ -1,0 +1,4362 @@
+alpha=0.0010, gamma=0.0010
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4066    2.9510    2.7903    2.7632    2.7784    2.7307    2.7340    2.7406    2.7846    2.7541
+
+  Columns 11 through 20
+
+    2.7356    2.7595    2.7554    2.7816    2.7853    2.7875    2.7546    2.7978    2.7833    2.7910
+
+  Columns 21 through 30
+
+    2.7484    2.7395    2.7482    2.7564    2.7145    2.6911    2.7427    2.7815    2.7916    2.7804
+
+  Columns 31 through 40
+
+    2.8061    2.7916    2.7576    2.7550    2.7577    2.7394    2.7094    2.7150    2.7427    2.7860
+
+  Columns 41 through 50
+
+    2.7906    2.7687    2.7632    2.8011    2.7860    2.7401    2.7013    2.7188    2.7658    2.7551
+
+  Columns 51 through 60
+
+    2.7974    2.7577    2.7565    2.8006    2.7518    2.7744    2.7413    2.7711    2.8018    2.7952
+
+  Columns 61 through 70
+
+    2.7537    2.7503    2.7435    2.7840    2.7628    2.7756    2.7471    2.7711    2.7749    2.7421
+
+  Columns 71 through 80
+
+    2.7463    2.7957    2.7460    2.7527    2.7585    2.7669    2.7465    2.7654    2.7371    2.7799
+
+  Columns 81 through 90
+
+    2.7715    2.7441    2.7680    2.7499    2.7632    2.7434    2.7439    2.7806    2.8270    2.7710
+
+  Columns 91 through 100
+
+    2.7582    2.7224    2.6929    2.7016    2.7235    2.7866    2.7644    2.7639    2.7552    2.7817
+
+Elapsed time is 22.512391 seconds.
+Clustering Accuracy is 0.60274
+Clustering MIhat is 0.55982
+Clustering Purity is 0.64384
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.77023
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.67528
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.72574
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.82192
+Clustering MIhat is 0.73282
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.82192
+Clustering MIhat is 0.72907
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.84932
+Clustering MIhat is 0.79104
+Clustering Purity is 0.84932
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.69067
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.71198
+Clustering Purity is 0.80822
+
+
+alpha=0.0010, gamma=0.0100
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4069    2.9393    2.7655    2.7075    2.7075    2.7015    2.7025    2.7304    2.7065    2.7261
+
+  Columns 11 through 20
+
+    2.7668    2.7514    2.7204    2.7221    2.7124    2.7320    2.7577    2.7591    2.7640    2.7557
+
+  Columns 21 through 30
+
+    2.7515    2.7745    2.7311    2.7568    2.7495    2.7233    2.7186    2.7673    2.7485    2.7761
+
+  Columns 31 through 40
+
+    2.7552    2.7691    2.7370    2.7467    2.7865    2.7833    2.7565    2.7842    2.7454    2.8160
+
+  Columns 41 through 50
+
+    2.7595    2.7597    2.7572    2.7380    2.7282    2.7423    2.7178    2.7192    2.7530    2.7707
+
+  Columns 51 through 60
+
+    2.7080    2.7396    2.7472    2.7409    2.7468    2.7081    2.6975    2.7146    2.7406    2.7662
+
+  Columns 61 through 70
+
+    2.7509    2.7300    2.7460    2.7141    2.7165    2.7470    2.7354    2.7007    2.7316    2.7301
+
+  Columns 71 through 80
+
+    2.7150    2.7125    2.7317    2.7951    2.7457    2.7339    2.7608    2.7917    2.7771    2.7465
+
+  Columns 81 through 90
+
+    2.7487    2.7121    2.6913    2.6958    2.7288    2.7387    2.7481    2.7285    2.7795    2.7604
+
+  Columns 91 through 100
+
+    2.7571    2.7232    2.7479    2.7154    2.7549    2.7501    2.7340    2.7429    2.7628    2.7398
+
+Elapsed time is 33.045262 seconds.
+Clustering Accuracy is 0.61644
+Clustering MIhat is 0.60353
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.63014
+Clustering MIhat is 0.6347
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.61968
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.70536
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.63014
+Clustering MIhat is 0.63805
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.67123
+Clustering MIhat is 0.63745
+Clustering Purity is 0.71233
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.63681
+Clustering Purity is 0.69863
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.6983
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.67123
+Clustering MIhat is 0.59754
+Clustering Purity is 0.69863
+
+
+alpha=0.0010, gamma=0.1000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4069    2.9053    2.7464    2.7295    2.6994    2.7192    2.7411    2.7300    2.7193    2.7112
+
+  Columns 11 through 20
+
+    2.7034    2.7214    2.7246    2.7012    2.7098    2.7096    2.7430    2.7242    2.6935    2.7314
+
+  Columns 21 through 30
+
+    2.7227    2.7324    2.7336    2.7046    2.6915    2.7172    2.7086    2.7060    2.6998    2.6703
+
+  Columns 31 through 40
+
+    2.6882    2.6903    2.7162    2.6839    2.7035    2.6889    2.7290    2.7372    2.8058    2.7475
+
+  Columns 41 through 50
+
+    2.7270    2.7137    2.6960    2.7412    2.7230    2.7386    2.7365    2.6932    2.7297    2.6760
+
+  Columns 51 through 60
+
+    2.7405    2.7433    2.6924    2.6924    2.7195    2.7182    2.7324    2.7224    2.7492    2.7474
+
+  Columns 61 through 70
+
+    2.7440    2.7831    2.7566    2.7528    2.7081    2.7161    2.7100    2.7012    2.7189    2.7235
+
+  Columns 71 through 80
+
+    2.7160    2.6831    2.7249    2.7420    2.7407    2.7086    2.7291    2.7199    2.7038    2.7647
+
+  Columns 81 through 90
+
+    2.7194    2.6698    2.7238    2.7050    2.6819    2.7505    2.7696    2.7426    2.7108    2.7020
+
+  Columns 91 through 100
+
+    2.7102    2.7371    2.7610    2.7174    2.7458    2.7249    2.6663    2.6985    2.7410    2.7226
+
+Elapsed time is 44.470086 seconds.
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.68225
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.6582
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.6636
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.63701
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.64346
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.65753
+Clustering MIhat is 0.60806
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.77926
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.69306
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.67349
+Clustering Purity is 0.73973
+
+
+alpha=0.0010, gamma=1.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4069    2.9427    2.7684    2.7560    2.7263    2.7116    2.7178    2.7407    2.7559    2.7179
+
+  Columns 11 through 20
+
+    2.7185    2.7732    2.7365    2.7349    2.8021    2.7366    2.7241    2.7184    2.7032    2.7156
+
+  Columns 21 through 30
+
+    2.6961    2.6831    2.7081    2.7052    2.7007    2.6837    2.6641    2.6566    2.7029    2.7207
+
+  Columns 31 through 40
+
+    2.7096    2.6917    2.7199    2.6886    2.7304    2.7198    2.6870    2.7271    2.7085    2.6859
+
+  Columns 41 through 50
+
+    2.7093    2.7257    2.7186    2.7276    2.7537    2.7515    2.7440    2.7299    2.7223    2.7587
+
+  Columns 51 through 60
+
+    2.7116    2.7170    2.6949    2.7220    2.7266    2.7399    2.7009    2.7055    2.7048    2.7376
+
+  Columns 61 through 70
+
+    2.7302    2.7262    2.7380    2.7204    2.7494    2.7350    2.7436    2.7827    2.7630    2.7109
+
+  Columns 71 through 80
+
+    2.7281    2.6939    2.7021    2.6959    2.7159    2.6816    2.6966    2.7241    2.7416    2.7366
+
+  Columns 81 through 90
+
+    2.7744    2.7400    2.7165    2.7821    2.7488    2.7688    2.7293    2.6908    2.7232    2.7327
+
+  Columns 91 through 100
+
+    2.7623    2.6748    2.6920    2.6874    2.6650    2.7195    2.7104    2.7124    2.6938    2.6939
+
+Elapsed time is 55.338315 seconds.
+Clustering Accuracy is 0.63014
+Clustering MIhat is 0.56092
+Clustering Purity is 0.67123
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.58831
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.67123
+Clustering MIhat is 0.60966
+Clustering Purity is 0.71233
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.67736
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.82192
+Clustering MIhat is 0.71878
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.71505
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.6328
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.66333
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.59519
+Clustering Purity is 0.68493
+
+
+alpha=0.0010, gamma=10.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4069    2.9210    2.7346    2.6849    2.6595    2.7394    2.7295    2.6755    2.7067    2.6954
+
+  Columns 11 through 20
+
+    2.6927    2.7862    2.7769    2.6988    2.6973    2.6853    2.7261    2.6803    2.6750    2.7202
+
+  Columns 21 through 30
+
+    2.7127    2.7501    2.7855    2.7740    2.7675    2.6971    2.7215    2.7160    2.6980    2.7114
+
+  Columns 31 through 40
+
+    2.7110    2.7057    2.7021    2.7332    2.7135    2.7151    2.7017    2.7192    2.6939    2.8001
+
+  Columns 41 through 50
+
+    2.7192    2.7179    2.7208    2.7257    2.6879    2.6995    2.6628    2.7207    2.6715    2.7228
+
+  Columns 51 through 60
+
+    2.7488    2.7122    2.7308    2.7876    2.7357    2.7219    2.7423    2.7252    2.7507    2.6931
+
+  Columns 61 through 70
+
+    2.6762    2.7076    2.7064    2.6985    2.6787    2.7038    2.6670    2.6828    2.7695    2.6962
+
+  Columns 71 through 80
+
+    2.7198    2.7121    2.7369    2.7434    2.7161    2.7140    2.6742    2.7061    2.7382    2.7083
+
+  Columns 81 through 90
+
+    2.7573    2.7259    2.7165    2.7082    2.7201    2.7193    2.6875    2.6978    2.6869    2.6868
+
+  Columns 91 through 100
+
+    2.6763    2.7245    2.7535    2.7508    2.6994    2.7540    2.7313    2.7182    2.7213    2.7374
+
+Elapsed time is 65.689761 seconds.
+Clustering Accuracy is 0.60274
+Clustering MIhat is 0.5652
+Clustering Purity is 0.67123
+
+
+Clustering Accuracy is 0.63014
+Clustering MIhat is 0.64899
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.67298
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.66534
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.70692
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.64396
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.60274
+Clustering MIhat is 0.63769
+Clustering Purity is 0.69863
+
+
+Clustering Accuracy is 0.57534
+Clustering MIhat is 0.58363
+Clustering Purity is 0.65753
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.64361
+Clustering Purity is 0.73973
+
+
+alpha=0.0010, gamma=100.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4068    2.9215    2.7445    2.6957    2.6839    2.6884    2.6974    2.6742    2.6976    2.7271
+
+  Columns 11 through 20
+
+    2.6938    2.7173    2.7083    2.7088    2.7260    2.6866    2.6869    2.7084    2.7311    2.7675
+
+  Columns 21 through 30
+
+    2.7570    2.7049    2.7571    2.7205    2.7003    2.6977    2.6936    2.6874    2.7318    2.7183
+
+  Columns 31 through 40
+
+    2.7670    2.7491    2.7369    2.7100    2.7166    2.6995    2.7262    2.7204    2.6963    2.6976
+
+  Columns 41 through 50
+
+    2.7278    2.7318    2.7430    2.7203    2.6876    2.7032    2.7227    2.7176    2.7156    2.7569
+
+  Columns 51 through 60
+
+    2.7107    2.7104    2.7368    2.7505    2.7207    2.7099    2.7407    2.7505    2.7150    2.7105
+
+  Columns 61 through 70
+
+    2.7117    2.7411    2.7030    2.7287    2.7138    2.7547    2.7302    2.7030    2.6841    2.7261
+
+  Columns 71 through 80
+
+    2.7447    2.7427    2.6908    2.7200    2.7356    2.7495    2.7743    2.7326    2.7118    2.7032
+
+  Columns 81 through 90
+
+    2.6959    2.7310    2.7416    2.7353    2.7456    2.7633    2.7748    2.7763    2.7767    2.7177
+
+  Columns 91 through 100
+
+    2.7356    2.7786    2.7359    2.7155    2.7249    2.7247    2.7339    2.7043    2.7491    2.7742
+
+Elapsed time is 76.186757 seconds.
+Clustering Accuracy is 0.60274
+Clustering MIhat is 0.54043
+Clustering Purity is 0.69863
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.70718
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.66568
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.65974
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.65697
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.61644
+Clustering MIhat is 0.61222
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.84932
+Clustering MIhat is 0.76175
+Clustering Purity is 0.84932
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.64816
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.63096
+Clustering Purity is 0.72603
+
+
+alpha=0.0010, gamma=1000.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4069    2.9412    2.7650    2.7153    2.7077    2.6794    2.7137    2.7357    2.7178    2.6982
+
+  Columns 11 through 20
+
+    2.7075    2.7388    2.6890    2.7325    2.7430    2.7551    2.7446    2.7209    2.7862    2.7624
+
+  Columns 21 through 30
+
+    2.7320    2.7489    2.7779    2.7919    2.7600    2.6994    2.7026    2.6651    2.7107    2.7225
+
+  Columns 31 through 40
+
+    2.7006    2.7258    2.7142    2.7386    2.7300    2.7466    2.7938    2.7439    2.7193    2.6971
+
+  Columns 41 through 50
+
+    2.6995    2.7440    2.6859    2.6901    2.6967    2.6923    2.7171    2.7370    2.7085    2.7199
+
+  Columns 51 through 60
+
+    2.6944    2.7146    2.7124    2.7072    2.7054    2.7246    2.7041    2.7004    2.7165    2.7031
+
+  Columns 61 through 70
+
+    2.7294    2.6585    2.7281    2.6972    2.7611    2.7278    2.7153    2.7282    2.7262    2.7436
+
+  Columns 71 through 80
+
+    2.7372    2.7414    2.7511    2.7861    2.7088    2.7371    2.6984    2.7258    2.7485    2.7425
+
+  Columns 81 through 90
+
+    2.7279    2.7185    2.7226    2.7310    2.7382    2.7164    2.6987    2.7238    2.7487    2.7687
+
+  Columns 91 through 100
+
+    2.7372    2.7049    2.7115    2.7423    2.7068    2.7083    2.7436    2.7204    2.7123    2.7191
+
+Elapsed time is 87.615588 seconds.
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.62132
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.60104
+Clustering Purity is 0.71233
+
+
+Clustering Accuracy is 0.61644
+Clustering MIhat is 0.6003
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.6289
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.82192
+Clustering MIhat is 0.70758
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.82192
+Clustering MIhat is 0.72418
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.66556
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.72877
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.82192
+Clustering MIhat is 0.71724
+Clustering Purity is 0.82192
+
+
+alpha=0.0100, gamma=0.0010
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4064    2.9563    2.8830    2.8860    2.8853    2.8752    2.8270    2.8197    2.8254    2.8274
+
+  Columns 11 through 20
+
+    2.8231    2.8549    2.8004    2.8154    2.7967    2.8062    2.8335    2.8145    2.8202    2.7984
+
+  Columns 21 through 30
+
+    2.8020    2.8240    2.8909    2.8166    2.7970    2.8431    2.8117    2.7868    2.8095    2.8134
+
+  Columns 31 through 40
+
+    2.8290    2.8185    2.7801    2.8266    2.7939    2.8182    2.8194    2.8041    2.8204    2.8274
+
+  Columns 41 through 50
+
+    2.8601    2.8133    2.8436    2.8027    2.7757    2.8528    2.8177    2.8140    2.8115    2.8010
+
+  Columns 51 through 60
+
+    2.7829    2.8397    2.7915    2.8467    2.7909    2.7994    2.7741    2.7627    2.7859    2.8072
+
+  Columns 61 through 70
+
+    2.7938    2.7645    2.7854    2.8327    2.8084    2.8412    2.8393    2.8161    2.8311    2.8226
+
+  Columns 71 through 80
+
+    2.8511    2.8664    2.8467    2.8343    2.8138    2.8544    2.7884    2.8694    2.8236    2.8202
+
+  Columns 81 through 90
+
+    2.7607    2.7653    2.7888    2.7881    2.7956    2.8253    2.8122    2.8077    2.7853    2.7959
+
+  Columns 91 through 100
+
+    2.8387    2.8101    2.8285    2.7737    2.8311    2.7871    2.7775    2.7570    2.7604    2.7930
+
+Elapsed time is 97.323673 seconds.
+Clustering Accuracy is 0.65753
+Clustering MIhat is 0.61552
+Clustering Purity is 0.71233
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.72235
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.71727
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.72264
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.82192
+Clustering MIhat is 0.77931
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.7255
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.86301
+Clustering MIhat is 0.78406
+Clustering Purity is 0.86301
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.71664
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.87671
+Clustering MIhat is 0.80714
+Clustering Purity is 0.87671
+
+
+alpha=0.0100, gamma=0.0100
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4066    2.9510    2.7903    2.7632    2.7784    2.7307    2.7340    2.7406    2.7846    2.7541
+
+  Columns 11 through 20
+
+    2.7356    2.7595    2.7554    2.7816    2.7853    2.7875    2.7546    2.7978    2.7833    2.7910
+
+  Columns 21 through 30
+
+    2.7484    2.7395    2.7482    2.7564    2.7145    2.6911    2.7427    2.7815    2.7916    2.7804
+
+  Columns 31 through 40
+
+    2.8061    2.7916    2.7576    2.7550    2.7577    2.7394    2.7094    2.7150    2.7427    2.7860
+
+  Columns 41 through 50
+
+    2.7906    2.7687    2.7632    2.8011    2.7860    2.7401    2.7013    2.7188    2.7658    2.7551
+
+  Columns 51 through 60
+
+    2.7974    2.7577    2.7565    2.8006    2.7518    2.7744    2.7413    2.7711    2.8018    2.7952
+
+  Columns 61 through 70
+
+    2.7537    2.7503    2.7435    2.7840    2.7628    2.7756    2.7471    2.7711    2.7749    2.7421
+
+  Columns 71 through 80
+
+    2.7463    2.7957    2.7460    2.7527    2.7585    2.7669    2.7465    2.7654    2.7371    2.7799
+
+  Columns 81 through 90
+
+    2.7715    2.7441    2.7680    2.7499    2.7632    2.7434    2.7439    2.7806    2.8270    2.7710
+
+  Columns 91 through 100
+
+    2.7582    2.7224    2.6929    2.7016    2.7235    2.7866    2.7644    2.7639    2.7552    2.7817
+
+Elapsed time is 107.545224 seconds.
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.61144
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.6606
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.83562
+Clustering MIhat is 0.73912
+Clustering Purity is 0.83562
+
+
+Clustering Accuracy is 0.83562
+Clustering MIhat is 0.75303
+Clustering Purity is 0.83562
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.69748
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.72221
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.7194
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.69746
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.70706
+Clustering Purity is 0.78082
+
+
+alpha=0.0100, gamma=0.1000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4068    2.9536    2.7975    2.7735    2.7460    2.7513    2.7031    2.7255    2.7388    2.7284
+
+  Columns 11 through 20
+
+    2.7159    2.7574    2.7184    2.7644    2.7431    2.7541    2.7507    2.7372    2.7357    2.7048
+
+  Columns 21 through 30
+
+    2.7257    2.7354    2.7325    2.7227    2.7794    2.7614    2.7380    2.7647    2.6994    2.7398
+
+  Columns 31 through 40
+
+    2.7312    2.7324    2.7364    2.7715    2.7668    2.7567    2.7341    2.7241    2.7537    2.7392
+
+  Columns 41 through 50
+
+    2.7267    2.7317    2.7683    2.7797    2.7624    2.7451    2.7643    2.7673    2.7749    2.7544
+
+  Columns 51 through 60
+
+    2.7433    2.7366    2.7224    2.6967    2.7596    2.7716    2.7573    2.7582    2.8016    2.7443
+
+  Columns 61 through 70
+
+    2.7699    2.7781    2.7502    2.7410    2.7490    2.7671    2.7164    2.7628    2.7234    2.6997
+
+  Columns 71 through 80
+
+    2.7281    2.7202    2.7180    2.7432    2.7145    2.7138    2.7016    2.7426    2.7670    2.7929
+
+  Columns 81 through 90
+
+    2.7655    2.7857    2.7291    2.7486    2.7227    2.7498    2.7223    2.7247    2.6948    2.6993
+
+  Columns 91 through 100
+
+    2.7399    2.7622    2.7678    2.7383    2.7297    2.7511    2.7632    2.7463    2.7490    2.7679
+
+Elapsed time is 117.901248 seconds.
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.68776
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.655
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.65753
+Clustering MIhat is 0.60673
+Clustering Purity is 0.71233
+
+
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.66417
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.63014
+Clustering MIhat is 0.58205
+Clustering Purity is 0.71233
+
+
+Clustering Accuracy is 0.65753
+Clustering MIhat is 0.65322
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.67123
+Clustering MIhat is 0.60994
+Clustering Purity is 0.71233
+
+
+Clustering Accuracy is 0.57534
+Clustering MIhat is 0.56455
+Clustering Purity is 0.69863
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.67235
+Clustering Purity is 0.78082
+
+
+alpha=0.0100, gamma=1.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4069    2.9053    2.7464    2.7295    2.6994    2.7192    2.7411    2.7300    2.7193    2.7112
+
+  Columns 11 through 20
+
+    2.7034    2.7214    2.7246    2.7012    2.7098    2.7096    2.7430    2.7242    2.6935    2.7314
+
+  Columns 21 through 30
+
+    2.7227    2.7324    2.7336    2.7046    2.6915    2.7172    2.7086    2.7060    2.6998    2.6703
+
+  Columns 31 through 40
+
+    2.6882    2.6903    2.7162    2.6839    2.7035    2.6889    2.7290    2.7372    2.8058    2.7475
+
+  Columns 41 through 50
+
+    2.7270    2.7137    2.6960    2.7412    2.7230    2.7386    2.7365    2.6932    2.7297    2.6760
+
+  Columns 51 through 60
+
+    2.7405    2.7433    2.6924    2.6924    2.7195    2.7182    2.7324    2.7224    2.7492    2.7474
+
+  Columns 61 through 70
+
+    2.7440    2.7831    2.7566    2.7528    2.7081    2.7161    2.7100    2.7012    2.7189    2.7235
+
+  Columns 71 through 80
+
+    2.7160    2.6831    2.7249    2.7420    2.7407    2.7086    2.7291    2.7199    2.7038    2.7647
+
+  Columns 81 through 90
+
+    2.7194    2.6698    2.7238    2.7050    2.6819    2.7505    2.7696    2.7426    2.7108    2.7020
+
+  Columns 91 through 100
+
+    2.7102    2.7371    2.7610    2.7174    2.7458    2.7249    2.6663    2.6985    2.7410    2.7226
+
+Elapsed time is 128.987042 seconds.
+Clustering Accuracy is 0.82192
+Clustering MIhat is 0.70542
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.66965
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.63537
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.67597
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.75461
+Clustering Purity is 0.83562
+
+
+Clustering Accuracy is 0.64384
+Clustering MIhat is 0.58358
+Clustering Purity is 0.67123
+
+
+Clustering Accuracy is 0.86301
+Clustering MIhat is 0.76051
+Clustering Purity is 0.86301
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.65205
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.68625
+Clustering Purity is 0.78082
+
+
+alpha=0.0100, gamma=10.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4069    2.9427    2.7684    2.7560    2.7263    2.7116    2.7178    2.7407    2.7559    2.7179
+
+  Columns 11 through 20
+
+    2.7185    2.7732    2.7365    2.7349    2.8021    2.7366    2.7241    2.7184    2.7032    2.7156
+
+  Columns 21 through 30
+
+    2.6961    2.6831    2.7081    2.7052    2.7007    2.6837    2.6641    2.6566    2.7029    2.7207
+
+  Columns 31 through 40
+
+    2.7096    2.6917    2.7199    2.6886    2.7304    2.7198    2.6870    2.7271    2.7085    2.6859
+
+  Columns 41 through 50
+
+    2.7093    2.7257    2.7186    2.7276    2.7537    2.7515    2.7440    2.7299    2.7223    2.7587
+
+  Columns 51 through 60
+
+    2.7116    2.7170    2.6949    2.7220    2.7266    2.7399    2.7009    2.7055    2.7048    2.7376
+
+  Columns 61 through 70
+
+    2.7302    2.7262    2.7380    2.7204    2.7494    2.7350    2.7436    2.7827    2.7630    2.7109
+
+  Columns 71 through 80
+
+    2.7281    2.6939    2.7021    2.6959    2.7159    2.6816    2.6966    2.7241    2.7416    2.7366
+
+  Columns 81 through 90
+
+    2.7744    2.7400    2.7165    2.7821    2.7488    2.7688    2.7293    2.6908    2.7232    2.7327
+
+  Columns 91 through 100
+
+    2.7623    2.6748    2.6920    2.6874    2.6650    2.7195    2.7104    2.7124    2.6938    2.6939
+
+Elapsed time is 139.691379 seconds.
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.6036
+Clustering Purity is 0.71233
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.5527
+Clustering Purity is 0.68493
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.70599
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.64695
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.69109
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.68158
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.82192
+Clustering MIhat is 0.70352
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.71388
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.58189
+Clustering Purity is 0.69863
+
+
+alpha=0.0100, gamma=100.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4069    2.9210    2.7346    2.6849    2.6595    2.7394    2.7295    2.6755    2.7067    2.6954
+
+  Columns 11 through 20
+
+    2.6927    2.7862    2.7769    2.6988    2.6973    2.6853    2.7261    2.6803    2.6750    2.7202
+
+  Columns 21 through 30
+
+    2.7127    2.7501    2.7855    2.7740    2.7675    2.6971    2.7215    2.7160    2.6980    2.7114
+
+  Columns 31 through 40
+
+    2.7110    2.7057    2.7021    2.7332    2.7135    2.7151    2.7017    2.7192    2.6939    2.8001
+
+  Columns 41 through 50
+
+    2.7192    2.7179    2.7208    2.7257    2.6879    2.6995    2.6628    2.7207    2.6715    2.7228
+
+  Columns 51 through 60
+
+    2.7488    2.7122    2.7308    2.7876    2.7357    2.7219    2.7423    2.7252    2.7507    2.6931
+
+  Columns 61 through 70
+
+    2.6762    2.7076    2.7064    2.6985    2.6787    2.7038    2.6670    2.6828    2.7695    2.6962
+
+  Columns 71 through 80
+
+    2.7198    2.7121    2.7369    2.7434    2.7161    2.7140    2.6742    2.7061    2.7382    2.7083
+
+  Columns 81 through 90
+
+    2.7573    2.7259    2.7165    2.7082    2.7201    2.7193    2.6875    2.6978    2.6869    2.6868
+
+  Columns 91 through 100
+
+    2.6763    2.7245    2.7535    2.7508    2.6994    2.7540    2.7313    2.7182    2.7213    2.7374
+
+Elapsed time is 150.169529 seconds.
+Clustering Accuracy is 0.57534
+Clustering MIhat is 0.54304
+Clustering Purity is 0.67123
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.62926
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.67123
+Clustering MIhat is 0.65347
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.63014
+Clustering MIhat is 0.64884
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.65753
+Clustering MIhat is 0.64182
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.70738
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.65993
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.7582
+Clustering Purity is 0.83562
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.64465
+Clustering Purity is 0.75342
+
+
+alpha=0.0100, gamma=1000.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4068    2.9215    2.7445    2.6957    2.6839    2.6884    2.6974    2.6742    2.6976    2.7271
+
+  Columns 11 through 20
+
+    2.6938    2.7173    2.7083    2.7088    2.7260    2.6866    2.6869    2.7084    2.7311    2.7675
+
+  Columns 21 through 30
+
+    2.7570    2.7049    2.7571    2.7205    2.7003    2.6977    2.6936    2.6874    2.7318    2.7183
+
+  Columns 31 through 40
+
+    2.7670    2.7491    2.7369    2.7100    2.7166    2.6995    2.7262    2.7204    2.6963    2.6976
+
+  Columns 41 through 50
+
+    2.7278    2.7318    2.7430    2.7203    2.6876    2.7032    2.7227    2.7176    2.7156    2.7569
+
+  Columns 51 through 60
+
+    2.7107    2.7104    2.7368    2.7505    2.7207    2.7099    2.7407    2.7505    2.7150    2.7105
+
+  Columns 61 through 70
+
+    2.7117    2.7411    2.7030    2.7287    2.7138    2.7547    2.7302    2.7030    2.6841    2.7261
+
+  Columns 71 through 80
+
+    2.7447    2.7427    2.6908    2.7200    2.7356    2.7495    2.7743    2.7326    2.7118    2.7032
+
+  Columns 81 through 90
+
+    2.6959    2.7310    2.7416    2.7353    2.7456    2.7633    2.7748    2.7763    2.7767    2.7177
+
+  Columns 91 through 100
+
+    2.7356    2.7786    2.7359    2.7155    2.7249    2.7247    2.7339    2.7043    2.7491    2.7742
+
+Elapsed time is 160.613150 seconds.
+Clustering Accuracy is 0.61644
+Clustering MIhat is 0.53879
+Clustering Purity is 0.71233
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.66444
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.60274
+Clustering MIhat is 0.60227
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.67232
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.65398
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.84932
+Clustering MIhat is 0.7512
+Clustering Purity is 0.84932
+
+
+Clustering Accuracy is 0.61644
+Clustering MIhat is 0.63683
+Clustering Purity is 0.71233
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.7441
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.67123
+Clustering MIhat is 0.6693
+Clustering Purity is 0.76712
+
+
+alpha=0.1000, gamma=0.0010
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4062    2.9638    2.8172    2.7581    2.7596    2.8043    2.8596    2.7932    2.7815    2.7782
+
+  Columns 11 through 20
+
+    2.7445    2.7447    2.7847    2.7769    2.7421    2.7197    2.7083    2.7774    2.7597    2.7651
+
+  Columns 21 through 30
+
+    2.7771    2.7557    2.7626    2.7793    2.7834    2.7608    2.7220    2.7273    2.7634    2.7707
+
+  Columns 31 through 40
+
+    2.7614    2.7839    2.7484    2.7705    2.7793    2.7638    2.7545    2.7598    2.7605    2.7298
+
+  Columns 41 through 50
+
+    2.7453    2.7494    2.7429    2.7563    2.7414    2.7818    2.7687    2.7555    2.7498    2.7352
+
+  Columns 51 through 60
+
+    2.7647    2.7630    2.7324    2.7898    2.8045    2.7585    2.7203    2.7283    2.7502    2.7467
+
+  Columns 61 through 70
+
+    2.7766    2.7991    2.7558    2.7392    2.7363    2.7354    2.7612    2.7645    2.7669    2.7490
+
+  Columns 71 through 80
+
+    2.7638    2.7556    2.7389    2.7824    2.7672    2.7789    2.7814    2.7875    2.7822    2.7184
+
+  Columns 81 through 90
+
+    2.7555    2.7231    2.7989    2.7563    2.7805    2.7722    2.7127    2.7658    2.7840    2.8085
+
+  Columns 91 through 100
+
+    2.8074    2.7712    2.7655    2.7161    2.7756    2.7595    2.7634    2.7864    2.7599    2.8053
+
+Elapsed time is 170.999641 seconds.
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.65395
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.69441
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.67847
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.83562
+Clustering MIhat is 0.78218
+Clustering Purity is 0.84932
+
+
+Clustering Accuracy is 0.86301
+Clustering MIhat is 0.80877
+Clustering Purity is 0.87671
+
+
+Clustering Accuracy is 0.84932
+Clustering MIhat is 0.75836
+Clustering Purity is 0.84932
+
+
+Clustering Accuracy is 0.82192
+Clustering MIhat is 0.73267
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.64384
+Clustering MIhat is 0.58441
+Clustering Purity is 0.65753
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.66054
+Clustering Purity is 0.73973
+
+
+alpha=0.1000, gamma=0.0100
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4064    2.9563    2.8830    2.8860    2.8853    2.8752    2.8270    2.8197    2.8254    2.8274
+
+  Columns 11 through 20
+
+    2.8231    2.8549    2.8004    2.8154    2.7967    2.8062    2.8335    2.8145    2.8202    2.7984
+
+  Columns 21 through 30
+
+    2.8020    2.8240    2.8909    2.8166    2.7970    2.8431    2.8117    2.7868    2.8095    2.8134
+
+  Columns 31 through 40
+
+    2.8290    2.8185    2.7801    2.8266    2.7939    2.8182    2.8194    2.8041    2.8204    2.8274
+
+  Columns 41 through 50
+
+    2.8601    2.8133    2.8436    2.8027    2.7757    2.8528    2.8177    2.8140    2.8115    2.8010
+
+  Columns 51 through 60
+
+    2.7829    2.8397    2.7915    2.8467    2.7909    2.7994    2.7741    2.7627    2.7859    2.8072
+
+  Columns 61 through 70
+
+    2.7938    2.7645    2.7854    2.8327    2.8084    2.8412    2.8393    2.8161    2.8311    2.8226
+
+  Columns 71 through 80
+
+    2.8511    2.8664    2.8467    2.8343    2.8138    2.8544    2.7884    2.8694    2.8236    2.8202
+
+  Columns 81 through 90
+
+    2.7607    2.7653    2.7888    2.7881    2.7956    2.8253    2.8122    2.8077    2.7853    2.7959
+
+  Columns 91 through 100
+
+    2.8387    2.8101    2.8285    2.7737    2.8311    2.7871    2.7775    2.7570    2.7604    2.7930
+
+Elapsed time is 180.581291 seconds.
+Clustering Accuracy is 0.63014
+Clustering MIhat is 0.59546
+Clustering Purity is 0.68493
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.66849
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.69571
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.69447
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.86301
+Clustering MIhat is 0.78446
+Clustering Purity is 0.86301
+
+
+Clustering Accuracy is 0.82192
+Clustering MIhat is 0.76246
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.76621
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.77567
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.84932
+Clustering MIhat is 0.7828
+Clustering Purity is 0.84932
+
+
+alpha=0.1000, gamma=0.1000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4066    2.9510    2.7903    2.7632    2.7784    2.7307    2.7340    2.7406    2.7846    2.7541
+
+  Columns 11 through 20
+
+    2.7356    2.7595    2.7554    2.7816    2.7853    2.7875    2.7546    2.7978    2.7833    2.7910
+
+  Columns 21 through 30
+
+    2.7484    2.7395    2.7482    2.7564    2.7145    2.6911    2.7427    2.7815    2.7916    2.7804
+
+  Columns 31 through 40
+
+    2.8061    2.7916    2.7576    2.7550    2.7577    2.7394    2.7094    2.7150    2.7427    2.7860
+
+  Columns 41 through 50
+
+    2.7906    2.7687    2.7632    2.8011    2.7860    2.7401    2.7013    2.7188    2.7658    2.7551
+
+  Columns 51 through 60
+
+    2.7974    2.7577    2.7565    2.8006    2.7518    2.7744    2.7413    2.7711    2.8018    2.7952
+
+  Columns 61 through 70
+
+    2.7537    2.7503    2.7435    2.7840    2.7628    2.7756    2.7471    2.7711    2.7749    2.7421
+
+  Columns 71 through 80
+
+    2.7463    2.7957    2.7460    2.7527    2.7585    2.7669    2.7465    2.7654    2.7371    2.7799
+
+  Columns 81 through 90
+
+    2.7715    2.7441    2.7680    2.7499    2.7632    2.7434    2.7439    2.7806    2.8270    2.7710
+
+  Columns 91 through 100
+
+    2.7582    2.7224    2.6929    2.7016    2.7235    2.7866    2.7644    2.7639    2.7552    2.7817
+
+Elapsed time is 190.692123 seconds.
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.64056
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.70366
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.64181
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.71742
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.82192
+Clustering MIhat is 0.76161
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.90411
+Clustering MIhat is 0.85072
+Clustering Purity is 0.90411
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.69937
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.73922
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.70484
+Clustering Purity is 0.79452
+
+
+alpha=0.1000, gamma=1.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4069    2.9393    2.7655    2.7075    2.7075    2.7015    2.7025    2.7304    2.7065    2.7261
+
+  Columns 11 through 20
+
+    2.7668    2.7514    2.7204    2.7221    2.7124    2.7320    2.7577    2.7591    2.7640    2.7557
+
+  Columns 21 through 30
+
+    2.7515    2.7745    2.7311    2.7568    2.7495    2.7233    2.7186    2.7673    2.7485    2.7761
+
+  Columns 31 through 40
+
+    2.7552    2.7691    2.7370    2.7467    2.7865    2.7833    2.7565    2.7842    2.7454    2.8160
+
+  Columns 41 through 50
+
+    2.7595    2.7597    2.7572    2.7380    2.7282    2.7423    2.7178    2.7192    2.7530    2.7707
+
+  Columns 51 through 60
+
+    2.7080    2.7396    2.7472    2.7409    2.7468    2.7081    2.6975    2.7146    2.7406    2.7662
+
+  Columns 61 through 70
+
+    2.7509    2.7300    2.7460    2.7141    2.7165    2.7470    2.7354    2.7007    2.7316    2.7301
+
+  Columns 71 through 80
+
+    2.7150    2.7125    2.7317    2.7951    2.7457    2.7339    2.7608    2.7917    2.7771    2.7465
+
+  Columns 81 through 90
+
+    2.7487    2.7121    2.6913    2.6958    2.7288    2.7387    2.7481    2.7285    2.7795    2.7604
+
+  Columns 91 through 100
+
+    2.7571    2.7232    2.7479    2.7154    2.7549    2.7501    2.7340    2.7429    2.7628    2.7398
+
+Elapsed time is 201.566508 seconds.
+Clustering Accuracy is 0.64384
+Clustering MIhat is 0.64263
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.58904
+Clustering MIhat is 0.55802
+Clustering Purity is 0.71233
+
+
+Clustering Accuracy is 0.64384
+Clustering MIhat is 0.62217
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.67874
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.69877
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.71474
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.63104
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.61644
+Clustering MIhat is 0.60905
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.67123
+Clustering MIhat is 0.69538
+Clustering Purity is 0.80822
+
+
+alpha=0.1000, gamma=10.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4069    2.9053    2.7464    2.7295    2.6994    2.7192    2.7411    2.7300    2.7193    2.7112
+
+  Columns 11 through 20
+
+    2.7034    2.7214    2.7246    2.7012    2.7098    2.7096    2.7430    2.7242    2.6935    2.7314
+
+  Columns 21 through 30
+
+    2.7227    2.7324    2.7336    2.7046    2.6915    2.7172    2.7086    2.7060    2.6998    2.6703
+
+  Columns 31 through 40
+
+    2.6882    2.6903    2.7162    2.6839    2.7035    2.6889    2.7290    2.7372    2.8058    2.7475
+
+  Columns 41 through 50
+
+    2.7270    2.7137    2.6960    2.7412    2.7230    2.7386    2.7365    2.6932    2.7297    2.6760
+
+  Columns 51 through 60
+
+    2.7405    2.7433    2.6924    2.6924    2.7195    2.7182    2.7324    2.7224    2.7492    2.7474
+
+  Columns 61 through 70
+
+    2.7440    2.7831    2.7566    2.7528    2.7081    2.7161    2.7100    2.7012    2.7189    2.7235
+
+  Columns 71 through 80
+
+    2.7160    2.6831    2.7249    2.7420    2.7407    2.7086    2.7291    2.7199    2.7038    2.7647
+
+  Columns 81 through 90
+
+    2.7194    2.6698    2.7238    2.7050    2.6819    2.7505    2.7696    2.7426    2.7108    2.7020
+
+  Columns 91 through 100
+
+    2.7102    2.7371    2.7610    2.7174    2.7458    2.7249    2.6663    2.6985    2.7410    2.7226
+
+Elapsed time is 212.418456 seconds.
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.67584
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.72951
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.87671
+Clustering MIhat is 0.81018
+Clustering Purity is 0.87671
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.7122
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.64718
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.63014
+Clustering MIhat is 0.58056
+Clustering Purity is 0.68493
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.68728
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.634
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.67123
+Clustering MIhat is 0.65423
+Clustering Purity is 0.76712
+
+
+alpha=0.1000, gamma=100.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4069    2.9427    2.7684    2.7560    2.7263    2.7116    2.7178    2.7407    2.7559    2.7179
+
+  Columns 11 through 20
+
+    2.7185    2.7732    2.7365    2.7349    2.8021    2.7366    2.7241    2.7184    2.7032    2.7156
+
+  Columns 21 through 30
+
+    2.6961    2.6831    2.7081    2.7052    2.7007    2.6837    2.6641    2.6566    2.7029    2.7207
+
+  Columns 31 through 40
+
+    2.7096    2.6917    2.7199    2.6886    2.7304    2.7198    2.6870    2.7271    2.7085    2.6859
+
+  Columns 41 through 50
+
+    2.7093    2.7257    2.7186    2.7276    2.7537    2.7515    2.7440    2.7299    2.7223    2.7587
+
+  Columns 51 through 60
+
+    2.7116    2.7170    2.6949    2.7220    2.7266    2.7399    2.7009    2.7055    2.7048    2.7376
+
+  Columns 61 through 70
+
+    2.7302    2.7262    2.7380    2.7204    2.7494    2.7350    2.7436    2.7827    2.7630    2.7109
+
+  Columns 71 through 80
+
+    2.7281    2.6939    2.7021    2.6959    2.7159    2.6816    2.6966    2.7241    2.7416    2.7366
+
+  Columns 81 through 90
+
+    2.7744    2.7400    2.7165    2.7821    2.7488    2.7688    2.7293    2.6908    2.7232    2.7327
+
+  Columns 91 through 100
+
+    2.7623    2.6748    2.6920    2.6874    2.6650    2.7195    2.7104    2.7124    2.6938    2.6939
+
+Elapsed time is 222.957658 seconds.
+Clustering Accuracy is 0.61644
+Clustering MIhat is 0.5499
+Clustering Purity is 0.65753
+
+
+Clustering Accuracy is 0.65753
+Clustering MIhat is 0.58202
+Clustering Purity is 0.68493
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.71878
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.65168
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.87671
+Clustering MIhat is 0.8019
+Clustering Purity is 0.87671
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.69995
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.6671
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.67472
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.63014
+Clustering MIhat is 0.60788
+Clustering Purity is 0.72603
+
+
+alpha=0.1000, gamma=1000.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4069    2.9210    2.7346    2.6849    2.6595    2.7394    2.7295    2.6755    2.7067    2.6954
+
+  Columns 11 through 20
+
+    2.6927    2.7862    2.7769    2.6988    2.6973    2.6853    2.7261    2.6803    2.6750    2.7202
+
+  Columns 21 through 30
+
+    2.7127    2.7501    2.7855    2.7740    2.7675    2.6971    2.7215    2.7160    2.6980    2.7114
+
+  Columns 31 through 40
+
+    2.7110    2.7057    2.7021    2.7332    2.7135    2.7151    2.7017    2.7192    2.6939    2.8001
+
+  Columns 41 through 50
+
+    2.7192    2.7179    2.7208    2.7257    2.6879    2.6995    2.6628    2.7207    2.6715    2.7228
+
+  Columns 51 through 60
+
+    2.7488    2.7122    2.7308    2.7876    2.7357    2.7219    2.7423    2.7252    2.7507    2.6931
+
+  Columns 61 through 70
+
+    2.6762    2.7076    2.7064    2.6985    2.6787    2.7038    2.6670    2.6828    2.7695    2.6962
+
+  Columns 71 through 80
+
+    2.7198    2.7121    2.7369    2.7434    2.7161    2.7140    2.6742    2.7061    2.7382    2.7083
+
+  Columns 81 through 90
+
+    2.7573    2.7259    2.7165    2.7082    2.7201    2.7193    2.6875    2.6978    2.6869    2.6868
+
+  Columns 91 through 100
+
+    2.6763    2.7245    2.7535    2.7508    2.6994    2.7540    2.7313    2.7182    2.7213    2.7374
+
+Elapsed time is 233.436967 seconds.
+Clustering Accuracy is 0.58904
+Clustering MIhat is 0.60778
+Clustering Purity is 0.68493
+
+
+Clustering Accuracy is 0.65753
+Clustering MIhat is 0.64791
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.64469
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.67012
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.67123
+Clustering MIhat is 0.62704
+Clustering Purity is 0.69863
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.67696
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.70463
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.64384
+Clustering MIhat is 0.60543
+Clustering Purity is 0.69863
+
+
+Clustering Accuracy is 0.63014
+Clustering MIhat is 0.65549
+Clustering Purity is 0.72603
+
+
+alpha=1.0000, gamma=0.0010
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4062    2.9744    2.8764    2.7895    2.7855    2.7580    2.7474    2.7777    2.7602    2.7882
+
+  Columns 11 through 20
+
+    2.7329    2.7227    2.7647    2.7298    2.7457    2.7718    2.7485    2.8000    2.7875    2.8087
+
+  Columns 21 through 30
+
+    2.7568    2.7321    2.7545    2.7273    2.7086    2.7451    2.7277    2.7282    2.7459    2.7490
+
+  Columns 31 through 40
+
+    2.7517    2.7391    2.7333    2.7439    2.7083    2.7344    2.7284    2.7452    2.7199    2.7423
+
+  Columns 41 through 50
+
+    2.7782    2.7789    2.7476    2.7240    2.7576    2.7728    2.7467    2.7478    2.7521    2.7640
+
+  Columns 51 through 60
+
+    2.7434    2.7780    2.7799    2.7551    2.7399    2.7594    2.7625    2.7364    2.7562    2.7478
+
+  Columns 61 through 70
+
+    2.7066    2.7134    2.7233    2.7614    2.7867    2.7706    2.7585    2.7654    2.7640    2.7392
+
+  Columns 71 through 80
+
+    2.7472    2.7687    2.7742    2.7369    2.7544    2.7645    2.7577    2.8016    2.7764    2.7567
+
+  Columns 81 through 90
+
+    2.7486    2.7446    2.7758    2.7689    2.7688    2.7888    2.7624    2.7452    2.7761    2.7611
+
+  Columns 91 through 100
+
+    2.7664    2.7726    2.7821    2.7595    2.7724    2.7463    2.7373    2.7353    2.7723    2.7818
+
+Elapsed time is 243.814582 seconds.
+Clustering Accuracy is 0.61644
+Clustering MIhat is 0.59266
+Clustering Purity is 0.68493
+
+
+Clustering Accuracy is 0.63014
+Clustering MIhat is 0.61544
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.67123
+Clustering MIhat is 0.60725
+Clustering Purity is 0.71233
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.63205
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.73262
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.67707
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.73633
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.66307
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.65062
+Clustering Purity is 0.73973
+
+
+alpha=1.0000, gamma=0.0100
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4062    2.9638    2.8172    2.7581    2.7596    2.8043    2.8596    2.7932    2.7815    2.7782
+
+  Columns 11 through 20
+
+    2.7445    2.7447    2.7847    2.7769    2.7421    2.7197    2.7083    2.7774    2.7597    2.7651
+
+  Columns 21 through 30
+
+    2.7771    2.7557    2.7626    2.7793    2.7834    2.7608    2.7220    2.7273    2.7634    2.7707
+
+  Columns 31 through 40
+
+    2.7614    2.7839    2.7484    2.7705    2.7793    2.7638    2.7545    2.7598    2.7605    2.7298
+
+  Columns 41 through 50
+
+    2.7453    2.7494    2.7429    2.7563    2.7414    2.7818    2.7687    2.7555    2.7498    2.7352
+
+  Columns 51 through 60
+
+    2.7647    2.7630    2.7324    2.7898    2.8045    2.7585    2.7203    2.7283    2.7502    2.7467
+
+  Columns 61 through 70
+
+    2.7766    2.7991    2.7558    2.7392    2.7363    2.7354    2.7612    2.7645    2.7669    2.7490
+
+  Columns 71 through 80
+
+    2.7638    2.7556    2.7389    2.7824    2.7672    2.7789    2.7814    2.7875    2.7822    2.7184
+
+  Columns 81 through 90
+
+    2.7555    2.7231    2.7989    2.7563    2.7805    2.7722    2.7127    2.7658    2.7840    2.8085
+
+  Columns 91 through 100
+
+    2.8074    2.7712    2.7655    2.7161    2.7756    2.7595    2.7634    2.7864    2.7599    2.8053
+
+Elapsed time is 254.042576 seconds.
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.64657
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.69595
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.71956
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.76182
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.64949
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.69802
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.6735
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.58383
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.56164
+Clustering MIhat is 0.56077
+Clustering Purity is 0.64384
+
+
+alpha=1.0000, gamma=0.1000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4064    2.9563    2.8830    2.8860    2.8853    2.8752    2.8270    2.8197    2.8254    2.8274
+
+  Columns 11 through 20
+
+    2.8231    2.8549    2.8004    2.8154    2.7967    2.8062    2.8335    2.8145    2.8202    2.7984
+
+  Columns 21 through 30
+
+    2.8020    2.8240    2.8909    2.8166    2.7970    2.8431    2.8117    2.7868    2.8095    2.8134
+
+  Columns 31 through 40
+
+    2.8290    2.8185    2.7801    2.8266    2.7939    2.8182    2.8194    2.8041    2.8204    2.8274
+
+  Columns 41 through 50
+
+    2.8601    2.8133    2.8436    2.8027    2.7757    2.8528    2.8177    2.8140    2.8115    2.8010
+
+  Columns 51 through 60
+
+    2.7829    2.8397    2.7915    2.8467    2.7909    2.7994    2.7741    2.7627    2.7859    2.8072
+
+  Columns 61 through 70
+
+    2.7938    2.7645    2.7854    2.8327    2.8084    2.8412    2.8393    2.8161    2.8311    2.8226
+
+  Columns 71 through 80
+
+    2.8511    2.8664    2.8467    2.8343    2.8138    2.8544    2.7884    2.8694    2.8236    2.8202
+
+  Columns 81 through 90
+
+    2.7607    2.7653    2.7888    2.7881    2.7956    2.8253    2.8122    2.8077    2.7853    2.7959
+
+  Columns 91 through 100
+
+    2.8387    2.8101    2.8285    2.7737    2.8311    2.7871    2.7775    2.7570    2.7604    2.7930
+
+Elapsed time is 263.630232 seconds.
+Clustering Accuracy is 0.61644
+Clustering MIhat is 0.58528
+Clustering Purity is 0.68493
+
+
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.63147
+Clustering Purity is 0.71233
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.72847
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.83562
+Clustering MIhat is 0.77417
+Clustering Purity is 0.84932
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.75461
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.82192
+Clustering MIhat is 0.74463
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.71608
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.78161
+Clustering Purity is 0.83562
+
+
+Clustering Accuracy is 0.86301
+Clustering MIhat is 0.7876
+Clustering Purity is 0.86301
+
+
+alpha=1.0000, gamma=1.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4066    2.9510    2.7903    2.7632    2.7784    2.7307    2.7340    2.7406    2.7846    2.7541
+
+  Columns 11 through 20
+
+    2.7356    2.7595    2.7554    2.7816    2.7853    2.7875    2.7546    2.7978    2.7833    2.7910
+
+  Columns 21 through 30
+
+    2.7484    2.7395    2.7482    2.7564    2.7145    2.6911    2.7427    2.7815    2.7916    2.7804
+
+  Columns 31 through 40
+
+    2.8061    2.7916    2.7576    2.7550    2.7577    2.7394    2.7094    2.7150    2.7427    2.7860
+
+  Columns 41 through 50
+
+    2.7906    2.7687    2.7632    2.8011    2.7860    2.7401    2.7013    2.7188    2.7658    2.7551
+
+  Columns 51 through 60
+
+    2.7974    2.7577    2.7565    2.8006    2.7518    2.7744    2.7413    2.7711    2.8018    2.7952
+
+  Columns 61 through 70
+
+    2.7537    2.7503    2.7435    2.7840    2.7628    2.7756    2.7471    2.7711    2.7749    2.7421
+
+  Columns 71 through 80
+
+    2.7463    2.7957    2.7460    2.7527    2.7585    2.7669    2.7465    2.7654    2.7371    2.7799
+
+  Columns 81 through 90
+
+    2.7715    2.7441    2.7680    2.7499    2.7632    2.7434    2.7439    2.7806    2.8270    2.7710
+
+  Columns 91 through 100
+
+    2.7582    2.7224    2.6929    2.7016    2.7235    2.7866    2.7644    2.7639    2.7552    2.7817
+
+Elapsed time is 273.695106 seconds.
+Clustering Accuracy is 0.67123
+Clustering MIhat is 0.6226
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.71804
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.82192
+Clustering MIhat is 0.73888
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.70719
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.69412
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.65298
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.64531
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.6837
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.70372
+Clustering Purity is 0.80822
+
+
+alpha=1.0000, gamma=10.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4069    2.9393    2.7655    2.7075    2.7075    2.7015    2.7025    2.7304    2.7065    2.7261
+
+  Columns 11 through 20
+
+    2.7668    2.7514    2.7204    2.7221    2.7124    2.7320    2.7577    2.7591    2.7640    2.7557
+
+  Columns 21 through 30
+
+    2.7515    2.7745    2.7311    2.7568    2.7495    2.7233    2.7186    2.7673    2.7485    2.7761
+
+  Columns 31 through 40
+
+    2.7552    2.7691    2.7370    2.7467    2.7865    2.7833    2.7565    2.7842    2.7454    2.8160
+
+  Columns 41 through 50
+
+    2.7595    2.7597    2.7572    2.7380    2.7282    2.7423    2.7178    2.7192    2.7530    2.7707
+
+  Columns 51 through 60
+
+    2.7080    2.7396    2.7472    2.7409    2.7468    2.7081    2.6975    2.7146    2.7406    2.7662
+
+  Columns 61 through 70
+
+    2.7509    2.7300    2.7460    2.7141    2.7165    2.7470    2.7354    2.7007    2.7316    2.7301
+
+  Columns 71 through 80
+
+    2.7150    2.7125    2.7317    2.7951    2.7457    2.7339    2.7608    2.7917    2.7771    2.7465
+
+  Columns 81 through 90
+
+    2.7487    2.7121    2.6913    2.6958    2.7288    2.7387    2.7481    2.7285    2.7795    2.7604
+
+  Columns 91 through 100
+
+    2.7571    2.7232    2.7479    2.7154    2.7549    2.7501    2.7340    2.7429    2.7628    2.7398
+
+Elapsed time is 284.504022 seconds.
+Clustering Accuracy is 0.64384
+Clustering MIhat is 0.58158
+Clustering Purity is 0.71233
+
+
+Clustering Accuracy is 0.63014
+Clustering MIhat is 0.55429
+Clustering Purity is 0.68493
+
+
+Clustering Accuracy is 0.63014
+Clustering MIhat is 0.64496
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.61484
+Clustering Purity is 0.71233
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.59373
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.68438
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.83562
+Clustering MIhat is 0.71987
+Clustering Purity is 0.83562
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.68941
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.69445
+Clustering Purity is 0.76712
+
+
+alpha=1.0000, gamma=100.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4069    2.9053    2.7464    2.7295    2.6994    2.7192    2.7411    2.7300    2.7193    2.7112
+
+  Columns 11 through 20
+
+    2.7034    2.7214    2.7246    2.7012    2.7098    2.7096    2.7430    2.7242    2.6935    2.7314
+
+  Columns 21 through 30
+
+    2.7227    2.7324    2.7336    2.7046    2.6915    2.7172    2.7086    2.7060    2.6998    2.6703
+
+  Columns 31 through 40
+
+    2.6882    2.6903    2.7162    2.6839    2.7035    2.6889    2.7290    2.7372    2.8058    2.7475
+
+  Columns 41 through 50
+
+    2.7270    2.7137    2.6960    2.7412    2.7230    2.7386    2.7365    2.6932    2.7297    2.6760
+
+  Columns 51 through 60
+
+    2.7405    2.7433    2.6924    2.6924    2.7195    2.7182    2.7324    2.7224    2.7492    2.7474
+
+  Columns 61 through 70
+
+    2.7440    2.7831    2.7566    2.7528    2.7081    2.7161    2.7100    2.7012    2.7189    2.7235
+
+  Columns 71 through 80
+
+    2.7160    2.6831    2.7249    2.7420    2.7407    2.7086    2.7291    2.7199    2.7038    2.7647
+
+  Columns 81 through 90
+
+    2.7194    2.6698    2.7238    2.7050    2.6819    2.7505    2.7696    2.7426    2.7108    2.7020
+
+  Columns 91 through 100
+
+    2.7102    2.7371    2.7610    2.7174    2.7458    2.7249    2.6663    2.6985    2.7410    2.7226
+
+Elapsed time is 295.329690 seconds.
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.75184
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.68066
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.73141
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.65753
+Clustering MIhat is 0.6043
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.73375
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.66734
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.67023
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.67186
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.70599
+Clustering Purity is 0.79452
+
+
+alpha=1.0000, gamma=1000.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4069    2.9427    2.7684    2.7560    2.7263    2.7116    2.7178    2.7407    2.7559    2.7179
+
+  Columns 11 through 20
+
+    2.7185    2.7732    2.7365    2.7349    2.8021    2.7366    2.7241    2.7184    2.7032    2.7156
+
+  Columns 21 through 30
+
+    2.6961    2.6831    2.7081    2.7052    2.7007    2.6837    2.6641    2.6566    2.7029    2.7207
+
+  Columns 31 through 40
+
+    2.7096    2.6917    2.7199    2.6886    2.7304    2.7198    2.6870    2.7271    2.7085    2.6859
+
+  Columns 41 through 50
+
+    2.7093    2.7257    2.7186    2.7276    2.7537    2.7515    2.7440    2.7299    2.7223    2.7587
+
+  Columns 51 through 60
+
+    2.7116    2.7170    2.6949    2.7220    2.7266    2.7399    2.7009    2.7055    2.7048    2.7376
+
+  Columns 61 through 70
+
+    2.7302    2.7262    2.7380    2.7204    2.7494    2.7350    2.7436    2.7827    2.7630    2.7109
+
+  Columns 71 through 80
+
+    2.7281    2.6939    2.7021    2.6959    2.7159    2.6816    2.6966    2.7241    2.7416    2.7366
+
+  Columns 81 through 90
+
+    2.7744    2.7400    2.7165    2.7821    2.7488    2.7688    2.7293    2.6908    2.7232    2.7327
+
+  Columns 91 through 100
+
+    2.7623    2.6748    2.6920    2.6874    2.6650    2.7195    2.7104    2.7124    2.6938    2.6939
+
+Elapsed time is 305.849875 seconds.
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.63768
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.63014
+Clustering MIhat is 0.59594
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.64578
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.63778
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.69119
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.64426
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.67831
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.66678
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.67019
+Clustering Purity is 0.75342
+
+
+alpha=10.0000, gamma=0.0010
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4062    2.9744    2.8764    2.7895    2.7855    2.7581    2.7310    2.7021    2.7399    2.7417
+
+  Columns 11 through 20
+
+    2.7569    2.7682    2.7933    2.7379    2.7247    2.7420    2.7705    2.8015    2.7841    2.7539
+
+  Columns 21 through 30
+
+    2.7254    2.7669    2.7381    2.7246    2.7106    2.7133    2.7738    2.7850    2.7648    2.7596
+
+  Columns 31 through 40
+
+    2.7673    2.7405    2.7541    2.7753    2.7615    2.7684    2.7134    2.7604    2.7565    2.7307
+
+  Columns 41 through 50
+
+    2.7493    2.8199    2.7271    2.7478    2.8014    2.7445    2.7538    2.7500    2.7431    2.7512
+
+  Columns 51 through 60
+
+    2.7440    2.7676    2.7983    2.7630    2.7666    2.7357    2.7740    2.7873    2.7471    2.7640
+
+  Columns 61 through 70
+
+    2.7471    2.7312    2.7104    2.7489    2.7572    2.7535    2.7588    2.7477    2.7800    2.8226
+
+  Columns 71 through 80
+
+    2.7590    2.7384    2.7397    2.7385    2.7097    2.6951    2.7304    2.7377    2.7395    2.7434
+
+  Columns 81 through 90
+
+    2.7452    2.7452    2.7433    2.7321    2.7302    2.7507    2.7187    2.7231    2.8126    2.7497
+
+  Columns 91 through 100
+
+    2.7400    2.7692    2.7297    2.7793    2.7384    2.7535    2.7942    2.7425    2.7284    2.7493
+
+Elapsed time is 315.915358 seconds.
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.61605
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.72955
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.73321
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.71421
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.693
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.73292
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.71172
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.67123
+Clustering MIhat is 0.69728
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.69393
+Clustering Purity is 0.73973
+
+
+alpha=10.0000, gamma=0.0100
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4062    2.9744    2.8764    2.7895    2.7855    2.7580    2.7474    2.7777    2.7602    2.7882
+
+  Columns 11 through 20
+
+    2.7329    2.7227    2.7647    2.7298    2.7457    2.7718    2.7485    2.8000    2.7875    2.8087
+
+  Columns 21 through 30
+
+    2.7568    2.7321    2.7545    2.7273    2.7086    2.7451    2.7277    2.7282    2.7459    2.7490
+
+  Columns 31 through 40
+
+    2.7517    2.7391    2.7333    2.7439    2.7083    2.7344    2.7284    2.7452    2.7199    2.7423
+
+  Columns 41 through 50
+
+    2.7782    2.7789    2.7476    2.7240    2.7576    2.7728    2.7467    2.7478    2.7521    2.7640
+
+  Columns 51 through 60
+
+    2.7434    2.7780    2.7799    2.7551    2.7399    2.7594    2.7625    2.7364    2.7562    2.7478
+
+  Columns 61 through 70
+
+    2.7066    2.7134    2.7233    2.7614    2.7867    2.7706    2.7585    2.7654    2.7640    2.7392
+
+  Columns 71 through 80
+
+    2.7472    2.7687    2.7742    2.7369    2.7544    2.7645    2.7577    2.8016    2.7764    2.7567
+
+  Columns 81 through 90
+
+    2.7486    2.7446    2.7758    2.7689    2.7688    2.7888    2.7624    2.7452    2.7761    2.7611
+
+  Columns 91 through 100
+
+    2.7664    2.7726    2.7821    2.7595    2.7724    2.7463    2.7373    2.7353    2.7723    2.7818
+
+Elapsed time is 326.265041 seconds.
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.61215
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.72308
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.70957
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.71619
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.67123
+Clustering MIhat is 0.63595
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.70094
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.68876
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.66957
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.63711
+Clustering Purity is 0.75342
+
+
+alpha=10.0000, gamma=0.1000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4062    2.9638    2.8172    2.7581    2.7596    2.8043    2.8596    2.7932    2.7815    2.7782
+
+  Columns 11 through 20
+
+    2.7445    2.7447    2.7847    2.7769    2.7421    2.7197    2.7083    2.7774    2.7597    2.7651
+
+  Columns 21 through 30
+
+    2.7771    2.7557    2.7626    2.7793    2.7834    2.7608    2.7220    2.7273    2.7634    2.7707
+
+  Columns 31 through 40
+
+    2.7614    2.7839    2.7484    2.7705    2.7793    2.7638    2.7545    2.7598    2.7605    2.7298
+
+  Columns 41 through 50
+
+    2.7453    2.7494    2.7429    2.7563    2.7414    2.7818    2.7687    2.7555    2.7498    2.7352
+
+  Columns 51 through 60
+
+    2.7647    2.7630    2.7324    2.7898    2.8045    2.7585    2.7203    2.7283    2.7502    2.7467
+
+  Columns 61 through 70
+
+    2.7766    2.7991    2.7558    2.7392    2.7363    2.7354    2.7612    2.7645    2.7669    2.7490
+
+  Columns 71 through 80
+
+    2.7638    2.7556    2.7389    2.7824    2.7672    2.7789    2.7814    2.7875    2.7822    2.7184
+
+  Columns 81 through 90
+
+    2.7555    2.7231    2.7989    2.7563    2.7805    2.7722    2.7127    2.7658    2.7840    2.8085
+
+  Columns 91 through 100
+
+    2.8074    2.7712    2.7655    2.7161    2.7756    2.7595    2.7634    2.7864    2.7599    2.8053
+
+Elapsed time is 336.415180 seconds.
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.71488
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.82192
+Clustering MIhat is 0.7287
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.86301
+Clustering MIhat is 0.79402
+Clustering Purity is 0.86301
+
+
+Clustering Accuracy is 0.84932
+Clustering MIhat is 0.78109
+Clustering Purity is 0.86301
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.71035
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.61644
+Clustering MIhat is 0.61414
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.70123
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.61644
+Clustering MIhat is 0.60383
+Clustering Purity is 0.69863
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.63696
+Clustering Purity is 0.72603
+
+
+alpha=10.0000, gamma=1.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4064    2.9563    2.8830    2.8860    2.8853    2.8752    2.8270    2.8197    2.8254    2.8274
+
+  Columns 11 through 20
+
+    2.8231    2.8549    2.8004    2.8154    2.7967    2.8062    2.8335    2.8145    2.8202    2.7984
+
+  Columns 21 through 30
+
+    2.8020    2.8240    2.8909    2.8166    2.7970    2.8431    2.8117    2.7868    2.8095    2.8134
+
+  Columns 31 through 40
+
+    2.8290    2.8185    2.7801    2.8266    2.7939    2.8182    2.8194    2.8041    2.8204    2.8274
+
+  Columns 41 through 50
+
+    2.8601    2.8133    2.8436    2.8027    2.7757    2.8528    2.8177    2.8140    2.8115    2.8010
+
+  Columns 51 through 60
+
+    2.7829    2.8397    2.7915    2.8467    2.7909    2.7994    2.7741    2.7627    2.7859    2.8072
+
+  Columns 61 through 70
+
+    2.7938    2.7645    2.7854    2.8327    2.8084    2.8412    2.8393    2.8161    2.8311    2.8226
+
+  Columns 71 through 80
+
+    2.8511    2.8664    2.8467    2.8343    2.8138    2.8544    2.7884    2.8694    2.8236    2.8202
+
+  Columns 81 through 90
+
+    2.7607    2.7653    2.7888    2.7881    2.7956    2.8253    2.8122    2.8077    2.7853    2.7959
+
+  Columns 91 through 100
+
+    2.8387    2.8101    2.8285    2.7737    2.8311    2.7871    2.7775    2.7570    2.7604    2.7930
+
+Elapsed time is 345.787886 seconds.
+Clustering Accuracy is 0.64384
+Clustering MIhat is 0.63211
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.67123
+Clustering MIhat is 0.70776
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.63014
+Clustering MIhat is 0.62439
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.74975
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.71161
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.69909
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.70105
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.74998
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.73622
+Clustering Purity is 0.79452
+
+
+alpha=10.0000, gamma=10.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4066    2.9510    2.7903    2.7632    2.7784    2.7307    2.7340    2.7406    2.7846    2.7541
+
+  Columns 11 through 20
+
+    2.7356    2.7595    2.7554    2.7816    2.7853    2.7875    2.7546    2.7978    2.7833    2.7910
+
+  Columns 21 through 30
+
+    2.7484    2.7395    2.7482    2.7564    2.7145    2.6911    2.7427    2.7815    2.7916    2.7804
+
+  Columns 31 through 40
+
+    2.8061    2.7916    2.7576    2.7550    2.7577    2.7394    2.7094    2.7150    2.7427    2.7860
+
+  Columns 41 through 50
+
+    2.7906    2.7687    2.7632    2.8011    2.7860    2.7401    2.7013    2.7188    2.7658    2.7551
+
+  Columns 51 through 60
+
+    2.7974    2.7577    2.7565    2.8006    2.7518    2.7744    2.7413    2.7711    2.8018    2.7952
+
+  Columns 61 through 70
+
+    2.7537    2.7503    2.7435    2.7840    2.7628    2.7756    2.7471    2.7711    2.7749    2.7421
+
+  Columns 71 through 80
+
+    2.7463    2.7957    2.7460    2.7527    2.7585    2.7669    2.7465    2.7654    2.7371    2.7799
+
+  Columns 81 through 90
+
+    2.7715    2.7441    2.7680    2.7499    2.7632    2.7434    2.7439    2.7806    2.8270    2.7710
+
+  Columns 91 through 100
+
+    2.7582    2.7224    2.6929    2.7016    2.7235    2.7866    2.7644    2.7639    2.7552    2.7817
+
+Elapsed time is 355.738530 seconds.
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.61476
+Clustering Purity is 0.69863
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.65085
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.72627
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.7162
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.84932
+Clustering MIhat is 0.76885
+Clustering Purity is 0.84932
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.70603
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.72303
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.729
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.71693
+Clustering Purity is 0.80822
+
+
+alpha=10.0000, gamma=100.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4069    2.9393    2.7655    2.7075    2.7075    2.7015    2.7025    2.7304    2.7065    2.7261
+
+  Columns 11 through 20
+
+    2.7668    2.7514    2.7204    2.7221    2.7124    2.7320    2.7577    2.7591    2.7640    2.7557
+
+  Columns 21 through 30
+
+    2.7515    2.7745    2.7311    2.7568    2.7495    2.7233    2.7186    2.7673    2.7485    2.7761
+
+  Columns 31 through 40
+
+    2.7552    2.7691    2.7370    2.7467    2.7865    2.7833    2.7565    2.7842    2.7454    2.8160
+
+  Columns 41 through 50
+
+    2.7595    2.7597    2.7572    2.7380    2.7282    2.7423    2.7178    2.7192    2.7530    2.7707
+
+  Columns 51 through 60
+
+    2.7080    2.7396    2.7472    2.7409    2.7468    2.7081    2.6975    2.7146    2.7406    2.7662
+
+  Columns 61 through 70
+
+    2.7509    2.7300    2.7460    2.7141    2.7165    2.7470    2.7354    2.7007    2.7316    2.7301
+
+  Columns 71 through 80
+
+    2.7150    2.7125    2.7317    2.7951    2.7457    2.7339    2.7608    2.7917    2.7771    2.7465
+
+  Columns 81 through 90
+
+    2.7487    2.7121    2.6913    2.6958    2.7288    2.7387    2.7481    2.7285    2.7795    2.7604
+
+  Columns 91 through 100
+
+    2.7571    2.7232    2.7479    2.7154    2.7549    2.7501    2.7340    2.7429    2.7628    2.7398
+
+Elapsed time is 366.155741 seconds.
+Clustering Accuracy is 0.57534
+Clustering MIhat is 0.5486
+Clustering Purity is 0.68493
+
+
+Clustering Accuracy is 0.61644
+Clustering MIhat is 0.61222
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.64384
+Clustering MIhat is 0.64292
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.64563
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.64725
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.66686
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.63014
+Clustering MIhat is 0.62615
+Clustering Purity is 0.69863
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.6286
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.56164
+Clustering MIhat is 0.56125
+Clustering Purity is 0.64384
+
+
+alpha=10.0000, gamma=1000.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4069    2.9053    2.7464    2.7295    2.6994    2.7192    2.7411    2.7300    2.7193    2.7112
+
+  Columns 11 through 20
+
+    2.7034    2.7214    2.7246    2.7012    2.7098    2.7096    2.7430    2.7242    2.6935    2.7314
+
+  Columns 21 through 30
+
+    2.7227    2.7324    2.7336    2.7046    2.6915    2.7172    2.7086    2.7060    2.6998    2.6703
+
+  Columns 31 through 40
+
+    2.6882    2.6903    2.7162    2.6839    2.7035    2.6889    2.7290    2.7372    2.8058    2.7475
+
+  Columns 41 through 50
+
+    2.7270    2.7137    2.6960    2.7412    2.7230    2.7386    2.7365    2.6932    2.7297    2.6760
+
+  Columns 51 through 60
+
+    2.7405    2.7433    2.6924    2.6924    2.7195    2.7182    2.7324    2.7224    2.7492    2.7474
+
+  Columns 61 through 70
+
+    2.7440    2.7831    2.7566    2.7528    2.7081    2.7161    2.7100    2.7012    2.7189    2.7235
+
+  Columns 71 through 80
+
+    2.7160    2.6831    2.7249    2.7420    2.7407    2.7086    2.7291    2.7199    2.7038    2.7647
+
+  Columns 81 through 90
+
+    2.7194    2.6698    2.7238    2.7050    2.6819    2.7505    2.7696    2.7426    2.7108    2.7020
+
+  Columns 91 through 100
+
+    2.7102    2.7371    2.7610    2.7174    2.7458    2.7249    2.6663    2.6985    2.7410    2.7226
+
+Elapsed time is 376.954649 seconds.
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.67593
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.61382
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.67976
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.60274
+Clustering MIhat is 0.57821
+Clustering Purity is 0.68493
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.6047
+Clustering Purity is 0.71233
+
+
+Clustering Accuracy is 0.67123
+Clustering MIhat is 0.64615
+Clustering Purity is 0.71233
+
+
+Clustering Accuracy is 0.63014
+Clustering MIhat is 0.62113
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.66192
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.59901
+Clustering Purity is 0.68493
+
+
+alpha=100.0000, gamma=0.0010
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4062    2.9744    2.8764    2.7895    2.7855    2.7580    2.7654    2.8096    2.8090    2.7694
+
+  Columns 11 through 20
+
+    2.7783    2.7341    2.7510    2.7598    2.7638    2.7570    2.7582    2.7989    2.7205    2.8120
+
+  Columns 21 through 30
+
+    2.7722    2.7709    2.7606    2.8195    2.7533    2.7532    2.8021    2.7651    2.7607    2.7661
+
+  Columns 31 through 40
+
+    2.8335    2.7614    2.8025    2.7549    2.7457    2.7416    2.7455    2.7407    2.7518    2.7605
+
+  Columns 41 through 50
+
+    2.7468    2.7621    2.7364    2.7523    2.8224    2.7549    2.7569    2.7883    2.7728    2.7731
+
+  Columns 51 through 60
+
+    2.7926    2.7565    2.7479    2.7712    2.7605    2.8184    2.7778    2.7859    2.7802    2.7614
+
+  Columns 61 through 70
+
+    2.7605    2.7554    2.7449    2.7677    2.7883    2.7731    2.7543    2.7841    2.7624    2.8203
+
+  Columns 71 through 80
+
+    2.7654    2.7586    2.7439    2.7770    2.7654    2.7414    2.7403    2.7150    2.7461    2.7454
+
+  Columns 81 through 90
+
+    2.7799    2.7514    2.7216    2.7405    2.7231    2.7021    2.6986    2.7439    2.7105    2.7269
+
+  Columns 91 through 100
+
+    2.7419    2.7338    2.7336    2.7978    2.8580    2.8321    2.7844    2.7439    2.7818    2.7732
+
+Elapsed time is 386.900110 seconds.
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.64323
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.81684
+Clustering Purity is 0.83562
+
+
+Clustering Accuracy is 0.82192
+Clustering MIhat is 0.75791
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.6887
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.79542
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.87671
+Clustering MIhat is 0.80292
+Clustering Purity is 0.87671
+
+
+Clustering Accuracy is 0.86301
+Clustering MIhat is 0.7789
+Clustering Purity is 0.86301
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.75176
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.7546
+Clustering Purity is 0.83562
+
+
+alpha=100.0000, gamma=0.0100
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4062    2.9744    2.8764    2.7895    2.7855    2.7581    2.7310    2.7021    2.7399    2.7417
+
+  Columns 11 through 20
+
+    2.7569    2.7682    2.7933    2.7379    2.7247    2.7420    2.7705    2.8015    2.7841    2.7539
+
+  Columns 21 through 30
+
+    2.7254    2.7669    2.7381    2.7246    2.7106    2.7133    2.7738    2.7850    2.7648    2.7596
+
+  Columns 31 through 40
+
+    2.7673    2.7405    2.7541    2.7753    2.7615    2.7684    2.7134    2.7604    2.7565    2.7307
+
+  Columns 41 through 50
+
+    2.7493    2.8199    2.7271    2.7478    2.8014    2.7445    2.7538    2.7500    2.7431    2.7512
+
+  Columns 51 through 60
+
+    2.7440    2.7676    2.7983    2.7630    2.7666    2.7357    2.7740    2.7873    2.7471    2.7640
+
+  Columns 61 through 70
+
+    2.7471    2.7312    2.7104    2.7489    2.7572    2.7535    2.7588    2.7477    2.7800    2.8226
+
+  Columns 71 through 80
+
+    2.7590    2.7384    2.7397    2.7385    2.7097    2.6951    2.7304    2.7377    2.7395    2.7434
+
+  Columns 81 through 90
+
+    2.7452    2.7452    2.7433    2.7321    2.7302    2.7507    2.7187    2.7231    2.8126    2.7497
+
+  Columns 91 through 100
+
+    2.7400    2.7692    2.7297    2.7793    2.7384    2.7535    2.7942    2.7425    2.7284    2.7493
+
+Elapsed time is 396.977029 seconds.
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.63759
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.69834
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.66605
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.7162
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.71529
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.72919
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.74091
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.72192
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.6625
+Clustering Purity is 0.73973
+
+
+alpha=100.0000, gamma=0.1000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4062    2.9744    2.8764    2.7895    2.7855    2.7580    2.7474    2.7777    2.7602    2.7882
+
+  Columns 11 through 20
+
+    2.7329    2.7227    2.7647    2.7298    2.7457    2.7718    2.7485    2.8000    2.7875    2.8087
+
+  Columns 21 through 30
+
+    2.7568    2.7321    2.7545    2.7273    2.7086    2.7451    2.7277    2.7282    2.7459    2.7490
+
+  Columns 31 through 40
+
+    2.7517    2.7391    2.7333    2.7439    2.7083    2.7344    2.7284    2.7452    2.7199    2.7423
+
+  Columns 41 through 50
+
+    2.7782    2.7789    2.7476    2.7240    2.7576    2.7728    2.7467    2.7478    2.7521    2.7640
+
+  Columns 51 through 60
+
+    2.7434    2.7780    2.7799    2.7551    2.7399    2.7594    2.7625    2.7364    2.7562    2.7478
+
+  Columns 61 through 70
+
+    2.7066    2.7134    2.7233    2.7614    2.7867    2.7706    2.7585    2.7654    2.7640    2.7392
+
+  Columns 71 through 80
+
+    2.7472    2.7687    2.7742    2.7369    2.7544    2.7645    2.7577    2.8016    2.7764    2.7567
+
+  Columns 81 through 90
+
+    2.7486    2.7446    2.7758    2.7689    2.7688    2.7888    2.7624    2.7452    2.7761    2.7611
+
+  Columns 91 through 100
+
+    2.7664    2.7726    2.7821    2.7595    2.7724    2.7463    2.7373    2.7353    2.7723    2.7818
+
+Elapsed time is 407.334211 seconds.
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.63893
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.70095
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.69755
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.65411
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.70131
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.71021
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.71731
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.71374
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.66633
+Clustering Purity is 0.73973
+
+
+alpha=100.0000, gamma=1.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4062    2.9638    2.8172    2.7581    2.7596    2.8043    2.8596    2.7932    2.7815    2.7782
+
+  Columns 11 through 20
+
+    2.7445    2.7447    2.7847    2.7769    2.7421    2.7197    2.7083    2.7774    2.7597    2.7651
+
+  Columns 21 through 30
+
+    2.7771    2.7557    2.7626    2.7793    2.7834    2.7608    2.7220    2.7273    2.7634    2.7707
+
+  Columns 31 through 40
+
+    2.7614    2.7839    2.7484    2.7705    2.7793    2.7638    2.7545    2.7598    2.7605    2.7298
+
+  Columns 41 through 50
+
+    2.7453    2.7494    2.7429    2.7563    2.7414    2.7818    2.7687    2.7555    2.7498    2.7352
+
+  Columns 51 through 60
+
+    2.7647    2.7630    2.7324    2.7898    2.8045    2.7585    2.7203    2.7283    2.7502    2.7467
+
+  Columns 61 through 70
+
+    2.7766    2.7991    2.7558    2.7392    2.7363    2.7354    2.7612    2.7645    2.7669    2.7490
+
+  Columns 71 through 80
+
+    2.7638    2.7556    2.7389    2.7824    2.7672    2.7789    2.7814    2.7875    2.7822    2.7184
+
+  Columns 81 through 90
+
+    2.7555    2.7231    2.7989    2.7563    2.7805    2.7722    2.7127    2.7658    2.7840    2.8085
+
+  Columns 91 through 100
+
+    2.8074    2.7712    2.7655    2.7161    2.7756    2.7595    2.7634    2.7864    2.7599    2.8053
+
+Elapsed time is 417.522125 seconds.
+Clustering Accuracy is 0.63014
+Clustering MIhat is 0.59444
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.68952
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.78253
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.86301
+Clustering MIhat is 0.80781
+Clustering Purity is 0.87671
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.76039
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.65753
+Clustering MIhat is 0.6539
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.67123
+Clustering MIhat is 0.68353
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.61644
+Clustering MIhat is 0.61817
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.63014
+Clustering MIhat is 0.62948
+Clustering Purity is 0.68493
+
+
+alpha=100.0000, gamma=10.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4064    2.9563    2.8830    2.8860    2.8853    2.8752    2.8270    2.8197    2.8254    2.8274
+
+  Columns 11 through 20
+
+    2.8231    2.8549    2.8004    2.8154    2.7967    2.8062    2.8335    2.8145    2.8202    2.7984
+
+  Columns 21 through 30
+
+    2.8020    2.8240    2.8909    2.8166    2.7970    2.8431    2.8117    2.7868    2.8095    2.8134
+
+  Columns 31 through 40
+
+    2.8290    2.8185    2.7801    2.8266    2.7939    2.8182    2.8194    2.8041    2.8204    2.8274
+
+  Columns 41 through 50
+
+    2.8601    2.8133    2.8436    2.8027    2.7757    2.8528    2.8177    2.8140    2.8115    2.8010
+
+  Columns 51 through 60
+
+    2.7829    2.8397    2.7915    2.8467    2.7909    2.7994    2.7741    2.7627    2.7859    2.8072
+
+  Columns 61 through 70
+
+    2.7938    2.7645    2.7854    2.8327    2.8084    2.8412    2.8393    2.8161    2.8311    2.8226
+
+  Columns 71 through 80
+
+    2.8511    2.8664    2.8467    2.8343    2.8138    2.8544    2.7884    2.8694    2.8236    2.8202
+
+  Columns 81 through 90
+
+    2.7607    2.7653    2.7888    2.7881    2.7956    2.8253    2.8122    2.8077    2.7853    2.7959
+
+  Columns 91 through 100
+
+    2.8387    2.8101    2.8285    2.7737    2.8311    2.7871    2.7775    2.7570    2.7604    2.7930
+
+Elapsed time is 426.787856 seconds.
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.62644
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.62997
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.72489
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.74922
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.72381
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.72463
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.71297
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.69575
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.72102
+Clustering Purity is 0.80822
+
+
+alpha=100.0000, gamma=100.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4066    2.9510    2.7903    2.7632    2.7784    2.7307    2.7340    2.7406    2.7846    2.7541
+
+  Columns 11 through 20
+
+    2.7356    2.7595    2.7554    2.7816    2.7853    2.7875    2.7546    2.7978    2.7833    2.7910
+
+  Columns 21 through 30
+
+    2.7484    2.7395    2.7482    2.7564    2.7145    2.6911    2.7427    2.7815    2.7916    2.7804
+
+  Columns 31 through 40
+
+    2.8061    2.7916    2.7576    2.7550    2.7577    2.7394    2.7094    2.7150    2.7427    2.7860
+
+  Columns 41 through 50
+
+    2.7906    2.7687    2.7632    2.8011    2.7860    2.7401    2.7013    2.7188    2.7658    2.7551
+
+  Columns 51 through 60
+
+    2.7974    2.7577    2.7565    2.8006    2.7518    2.7744    2.7413    2.7711    2.8018    2.7952
+
+  Columns 61 through 70
+
+    2.7537    2.7503    2.7435    2.7840    2.7628    2.7756    2.7471    2.7711    2.7749    2.7421
+
+  Columns 71 through 80
+
+    2.7463    2.7957    2.7460    2.7527    2.7585    2.7669    2.7465    2.7654    2.7371    2.7799
+
+  Columns 81 through 90
+
+    2.7715    2.7441    2.7680    2.7499    2.7632    2.7434    2.7439    2.7806    2.8270    2.7710
+
+  Columns 91 through 100
+
+    2.7582    2.7224    2.6929    2.7016    2.7235    2.7866    2.7644    2.7639    2.7552    2.7817
+
+Elapsed time is 436.727367 seconds.
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.67434
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.82192
+Clustering MIhat is 0.76714
+Clustering Purity is 0.83562
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.71228
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.89041
+Clustering MIhat is 0.81356
+Clustering Purity is 0.89041
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.65963
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.74008
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.72638
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.7399
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.72381
+Clustering Purity is 0.79452
+
+
+alpha=100.0000, gamma=1000.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4069    2.9393    2.7655    2.7075    2.7075    2.7015    2.7025    2.7304    2.7065    2.7261
+
+  Columns 11 through 20
+
+    2.7668    2.7514    2.7204    2.7221    2.7124    2.7320    2.7577    2.7591    2.7640    2.7557
+
+  Columns 21 through 30
+
+    2.7515    2.7745    2.7311    2.7568    2.7495    2.7233    2.7186    2.7673    2.7485    2.7761
+
+  Columns 31 through 40
+
+    2.7552    2.7691    2.7370    2.7467    2.7865    2.7833    2.7565    2.7842    2.7454    2.8160
+
+  Columns 41 through 50
+
+    2.7595    2.7597    2.7572    2.7380    2.7282    2.7423    2.7178    2.7192    2.7530    2.7707
+
+  Columns 51 through 60
+
+    2.7080    2.7396    2.7472    2.7409    2.7468    2.7081    2.6975    2.7146    2.7406    2.7662
+
+  Columns 61 through 70
+
+    2.7509    2.7300    2.7460    2.7141    2.7165    2.7470    2.7354    2.7007    2.7316    2.7301
+
+  Columns 71 through 80
+
+    2.7150    2.7125    2.7317    2.7951    2.7457    2.7339    2.7608    2.7917    2.7771    2.7465
+
+  Columns 81 through 90
+
+    2.7487    2.7121    2.6913    2.6958    2.7288    2.7387    2.7481    2.7285    2.7795    2.7604
+
+  Columns 91 through 100
+
+    2.7571    2.7232    2.7479    2.7154    2.7549    2.7501    2.7340    2.7429    2.7628    2.7398
+
+Elapsed time is 447.219418 seconds.
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.592
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.57534
+Clustering MIhat is 0.531
+Clustering Purity is 0.67123
+
+
+Clustering Accuracy is 0.61644
+Clustering MIhat is 0.57168
+Clustering Purity is 0.68493
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.65422
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.6707
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.66506
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.71353
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.60274
+Clustering MIhat is 0.56732
+Clustering Purity is 0.71233
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.67747
+Clustering Purity is 0.78082
+
+
+alpha=1000.0000, gamma=0.0010
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4062    2.9744    2.8764    2.7895    2.7855    2.7580    2.8324    2.7984    2.7838    2.7265
+
+  Columns 11 through 20
+
+    2.7530    2.7378    2.7715    2.7897    2.7728    2.7666    2.7656    2.7706    2.7449    2.7843
+
+  Columns 21 through 30
+
+    2.7557    2.7673    2.7455    2.7357    2.7440    2.7505    2.7642    2.7500    2.7145    2.7640
+
+  Columns 31 through 40
+
+    2.7549    2.7373    2.7613    2.7422    2.7632    2.7383    2.7970    2.7711    2.7817    2.8155
+
+  Columns 41 through 50
+
+    2.7671    2.7803    2.7147    2.7279    2.7802    2.7714    2.7251    2.7581    2.7480    2.7269
+
+  Columns 51 through 60
+
+    2.7406    2.7833    2.7534    2.7493    2.7329    2.7453    2.7200    2.7199    2.7205    2.7959
+
+  Columns 61 through 70
+
+    2.7767    2.7304    2.7266    2.7446    2.7363    2.7414    2.7587    2.7323    2.7400    2.7611
+
+  Columns 71 through 80
+
+    2.7282    2.7955    2.7931    2.7908    2.7669    2.7823    2.7989    2.7900    2.8024    2.7421
+
+  Columns 81 through 90
+
+    2.7176    2.7422    2.7586    2.7881    2.7343    2.7866    2.7620    2.7030    2.7385    2.7462
+
+  Columns 91 through 100
+
+    2.7907    2.7967    2.7864    2.7386    2.7817    2.8201    2.7726    2.7671    2.7584    2.7408
+
+Elapsed time is 457.205596 seconds.
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.70598
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.61074
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.67123
+Clustering MIhat is 0.63533
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.69571
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.72089
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.69984
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.70578
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.67123
+Clustering MIhat is 0.64611
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.67076
+Clustering Purity is 0.76712
+
+
+alpha=1000.0000, gamma=0.0100
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4062    2.9744    2.8764    2.7895    2.7855    2.7580    2.7654    2.8096    2.8090    2.7694
+
+  Columns 11 through 20
+
+    2.7783    2.7341    2.7510    2.7598    2.7638    2.7570    2.7582    2.7989    2.7205    2.8120
+
+  Columns 21 through 30
+
+    2.7722    2.7709    2.7606    2.8195    2.7533    2.7532    2.8021    2.7651    2.7607    2.7661
+
+  Columns 31 through 40
+
+    2.8335    2.7614    2.8025    2.7549    2.7457    2.7416    2.7455    2.7407    2.7518    2.7605
+
+  Columns 41 through 50
+
+    2.7468    2.7621    2.7364    2.7523    2.8224    2.7549    2.7569    2.7883    2.7728    2.7731
+
+  Columns 51 through 60
+
+    2.7926    2.7565    2.7479    2.7712    2.7605    2.8184    2.7778    2.7859    2.7802    2.7614
+
+  Columns 61 through 70
+
+    2.7605    2.7554    2.7449    2.7677    2.7883    2.7731    2.7543    2.7841    2.7624    2.8203
+
+  Columns 71 through 80
+
+    2.7654    2.7586    2.7439    2.7770    2.7654    2.7414    2.7403    2.7150    2.7461    2.7454
+
+  Columns 81 through 90
+
+    2.7799    2.7514    2.7216    2.7405    2.7231    2.7021    2.6986    2.7439    2.7105    2.7269
+
+  Columns 91 through 100
+
+    2.7419    2.7338    2.7336    2.7978    2.8580    2.8321    2.7844    2.7439    2.7818    2.7732
+
+Elapsed time is 467.291948 seconds.
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.72336
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.70384
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.67123
+Clustering MIhat is 0.65275
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.76393
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.69384
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.83562
+Clustering MIhat is 0.74654
+Clustering Purity is 0.83562
+
+
+Clustering Accuracy is 0.89041
+Clustering MIhat is 0.81018
+Clustering Purity is 0.89041
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.73408
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.73141
+Clustering Purity is 0.80822
+
+
+alpha=1000.0000, gamma=0.1000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4062    2.9744    2.8764    2.7895    2.7855    2.7581    2.7310    2.7021    2.7399    2.7417
+
+  Columns 11 through 20
+
+    2.7569    2.7682    2.7933    2.7379    2.7247    2.7420    2.7705    2.8015    2.7841    2.7539
+
+  Columns 21 through 30
+
+    2.7254    2.7669    2.7381    2.7246    2.7106    2.7133    2.7738    2.7850    2.7648    2.7596
+
+  Columns 31 through 40
+
+    2.7673    2.7405    2.7541    2.7753    2.7615    2.7684    2.7134    2.7604    2.7565    2.7307
+
+  Columns 41 through 50
+
+    2.7493    2.8199    2.7271    2.7478    2.8014    2.7445    2.7538    2.7500    2.7431    2.7512
+
+  Columns 51 through 60
+
+    2.7440    2.7676    2.7983    2.7630    2.7666    2.7357    2.7740    2.7873    2.7471    2.7640
+
+  Columns 61 through 70
+
+    2.7471    2.7312    2.7104    2.7489    2.7572    2.7535    2.7588    2.7477    2.7800    2.8226
+
+  Columns 71 through 80
+
+    2.7590    2.7384    2.7397    2.7385    2.7097    2.6951    2.7304    2.7377    2.7395    2.7434
+
+  Columns 81 through 90
+
+    2.7452    2.7452    2.7433    2.7321    2.7302    2.7507    2.7187    2.7231    2.8126    2.7497
+
+  Columns 91 through 100
+
+    2.7400    2.7692    2.7297    2.7793    2.7384    2.7535    2.7942    2.7425    2.7284    2.7493
+
+Elapsed time is 477.520578 seconds.
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.67832
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.64856
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.66291
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.71276
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.65785
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.68493
+Clustering MIhat is 0.69573
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.82192
+Clustering MIhat is 0.736
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.71413
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.68398
+Clustering Purity is 0.76712
+
+
+alpha=1000.0000, gamma=1.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4062    2.9744    2.8764    2.7895    2.7855    2.7580    2.7474    2.7777    2.7602    2.7882
+
+  Columns 11 through 20
+
+    2.7329    2.7227    2.7647    2.7298    2.7457    2.7718    2.7485    2.8000    2.7875    2.8087
+
+  Columns 21 through 30
+
+    2.7568    2.7321    2.7545    2.7273    2.7086    2.7451    2.7277    2.7282    2.7459    2.7490
+
+  Columns 31 through 40
+
+    2.7517    2.7391    2.7333    2.7439    2.7083    2.7344    2.7284    2.7452    2.7199    2.7423
+
+  Columns 41 through 50
+
+    2.7782    2.7789    2.7476    2.7240    2.7576    2.7728    2.7467    2.7478    2.7521    2.7640
+
+  Columns 51 through 60
+
+    2.7434    2.7780    2.7799    2.7551    2.7399    2.7594    2.7625    2.7364    2.7562    2.7478
+
+  Columns 61 through 70
+
+    2.7066    2.7134    2.7233    2.7614    2.7867    2.7706    2.7585    2.7654    2.7640    2.7392
+
+  Columns 71 through 80
+
+    2.7472    2.7687    2.7742    2.7369    2.7544    2.7645    2.7577    2.8016    2.7764    2.7567
+
+  Columns 81 through 90
+
+    2.7486    2.7446    2.7758    2.7689    2.7688    2.7888    2.7624    2.7452    2.7761    2.7611
+
+  Columns 91 through 100
+
+    2.7664    2.7726    2.7821    2.7595    2.7724    2.7463    2.7373    2.7353    2.7723    2.7818
+
+Elapsed time is 487.701015 seconds.
+Clustering Accuracy is 0.65753
+Clustering MIhat is 0.61234
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.67246
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.72044
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.67496
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.68206
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.75342
+Clustering MIhat is 0.68178
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.65822
+Clustering Purity is 0.73973
+
+
+Clustering Accuracy is 0.73973
+Clustering MIhat is 0.67079
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.71028
+Clustering Purity is 0.78082
+
+
+alpha=1000.0000, gamma=10.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4062    2.9638    2.8172    2.7581    2.7596    2.8043    2.8596    2.7932    2.7815    2.7782
+
+  Columns 11 through 20
+
+    2.7445    2.7447    2.7847    2.7769    2.7421    2.7197    2.7083    2.7774    2.7597    2.7651
+
+  Columns 21 through 30
+
+    2.7771    2.7557    2.7626    2.7793    2.7834    2.7608    2.7220    2.7273    2.7634    2.7707
+
+  Columns 31 through 40
+
+    2.7614    2.7839    2.7484    2.7705    2.7793    2.7638    2.7545    2.7598    2.7605    2.7298
+
+  Columns 41 through 50
+
+    2.7453    2.7494    2.7429    2.7563    2.7414    2.7818    2.7687    2.7555    2.7498    2.7352
+
+  Columns 51 through 60
+
+    2.7647    2.7630    2.7324    2.7898    2.8045    2.7585    2.7203    2.7283    2.7502    2.7467
+
+  Columns 61 through 70
+
+    2.7766    2.7991    2.7558    2.7392    2.7363    2.7354    2.7612    2.7645    2.7669    2.7490
+
+  Columns 71 through 80
+
+    2.7638    2.7556    2.7389    2.7824    2.7672    2.7789    2.7814    2.7875    2.7822    2.7184
+
+  Columns 81 through 90
+
+    2.7555    2.7231    2.7989    2.7563    2.7805    2.7722    2.7127    2.7658    2.7840    2.8085
+
+  Columns 91 through 100
+
+    2.8074    2.7712    2.7655    2.7161    2.7756    2.7595    2.7634    2.7864    2.7599    2.8053
+
+Elapsed time is 497.790640 seconds.
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.66571
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.67123
+Clustering MIhat is 0.64064
+Clustering Purity is 0.71233
+
+
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.69679
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.64824
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.82192
+Clustering MIhat is 0.70939
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.69982
+Clustering Purity is 0.76712
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.65822
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.70216
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.65753
+Clustering MIhat is 0.62854
+Clustering Purity is 0.72603
+
+
+alpha=1000.0000, gamma=100.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4064    2.9563    2.8830    2.8860    2.8853    2.8752    2.8270    2.8197    2.8254    2.8274
+
+  Columns 11 through 20
+
+    2.8231    2.8549    2.8004    2.8154    2.7967    2.8062    2.8335    2.8145    2.8202    2.7984
+
+  Columns 21 through 30
+
+    2.8020    2.8240    2.8909    2.8166    2.7970    2.8431    2.8117    2.7868    2.8095    2.8134
+
+  Columns 31 through 40
+
+    2.8290    2.8185    2.7801    2.8266    2.7939    2.8182    2.8194    2.8041    2.8204    2.8274
+
+  Columns 41 through 50
+
+    2.8601    2.8133    2.8436    2.8027    2.7757    2.8528    2.8177    2.8140    2.8115    2.8010
+
+  Columns 51 through 60
+
+    2.7829    2.8397    2.7915    2.8467    2.7909    2.7994    2.7741    2.7627    2.7859    2.8072
+
+  Columns 61 through 70
+
+    2.7938    2.7645    2.7854    2.8327    2.8084    2.8412    2.8393    2.8161    2.8311    2.8226
+
+  Columns 71 through 80
+
+    2.8511    2.8664    2.8467    2.8343    2.8138    2.8544    2.7884    2.8694    2.8236    2.8202
+
+  Columns 81 through 90
+
+    2.7607    2.7653    2.7888    2.7881    2.7956    2.8253    2.8122    2.8077    2.7853    2.7959
+
+  Columns 91 through 100
+
+    2.8387    2.8101    2.8285    2.7737    2.8311    2.7871    2.7775    2.7570    2.7604    2.7930
+
+Elapsed time is 507.202691 seconds.
+Clustering Accuracy is 0.64384
+Clustering MIhat is 0.59604
+Clustering Purity is 0.69863
+
+
+Clustering Accuracy is 0.82192
+Clustering MIhat is 0.75918
+Clustering Purity is 0.83562
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.72935
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.71312
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.69863
+Clustering MIhat is 0.6853
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.80822
+Clustering MIhat is 0.71132
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.7506
+Clustering Purity is 0.80822
+
+
+Clustering Accuracy is 0.84932
+Clustering MIhat is 0.75798
+Clustering Purity is 0.84932
+
+
+Clustering Accuracy is 0.72603
+Clustering MIhat is 0.72056
+Clustering Purity is 0.80822
+
+
+alpha=1000.0000, gamma=1000.0000
+   1.0e+04 *
+
+  Columns 1 through 10
+
+    3.4066    2.9510    2.7903    2.7632    2.7784    2.7307    2.7340    2.7406    2.7846    2.7541
+
+  Columns 11 through 20
+
+    2.7356    2.7595    2.7554    2.7816    2.7853    2.7875    2.7546    2.7978    2.7833    2.7910
+
+  Columns 21 through 30
+
+    2.7484    2.7395    2.7482    2.7564    2.7145    2.6911    2.7427    2.7815    2.7916    2.7804
+
+  Columns 31 through 40
+
+    2.8061    2.7916    2.7576    2.7550    2.7577    2.7394    2.7094    2.7150    2.7427    2.7860
+
+  Columns 41 through 50
+
+    2.7906    2.7687    2.7632    2.8011    2.7860    2.7401    2.7013    2.7188    2.7658    2.7551
+
+  Columns 51 through 60
+
+    2.7974    2.7577    2.7565    2.8006    2.7518    2.7744    2.7413    2.7711    2.8018    2.7952
+
+  Columns 61 through 70
+
+    2.7537    2.7503    2.7435    2.7840    2.7628    2.7756    2.7471    2.7711    2.7749    2.7421
+
+  Columns 71 through 80
+
+    2.7463    2.7957    2.7460    2.7527    2.7585    2.7669    2.7465    2.7654    2.7371    2.7799
+
+  Columns 81 through 90
+
+    2.7715    2.7441    2.7680    2.7499    2.7632    2.7434    2.7439    2.7806    2.8270    2.7710
+
+  Columns 91 through 100
+
+    2.7582    2.7224    2.6929    2.7016    2.7235    2.7866    2.7644    2.7639    2.7552    2.7817
+
+Elapsed time is 517.225010 seconds.
+Clustering Accuracy is 0.78082
+Clustering MIhat is 0.70857
+Clustering Purity is 0.78082
+
+
+Clustering Accuracy is 0.67123
+Clustering MIhat is 0.67258
+Clustering Purity is 0.72603
+
+
+Clustering Accuracy is 0.82192
+Clustering MIhat is 0.71239
+Clustering Purity is 0.82192
+
+
+Clustering Accuracy is 0.79452
+Clustering MIhat is 0.72373
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.83562
+Clustering MIhat is 0.7313
+Clustering Purity is 0.83562
+
+
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.64822
+Clustering Purity is 0.75342
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.72288
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.76712
+Clustering MIhat is 0.72301
+Clustering Purity is 0.79452
+
+
+Clustering Accuracy is 0.71233
+Clustering MIhat is 0.68309
+Clustering Purity is 0.79452
+
+
+>> 
