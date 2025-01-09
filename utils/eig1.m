@@ -1,6 +1,6 @@
 function [eigvec, eigval, eigval_full] = eig1(A, c, isMax, isSym)
-% isMax=1，则选取A的最大特征值对应的特征向量
-% isMax=0，则选取A的最小特征值对应的特征向量
+% isMax=1锛屽垯閫夊彇A鐨勬渶澶х壒寰佸�煎搴旂殑鐗瑰緛鍚戦噺
+% isMax=0锛屽垯閫夊彇A鐨勬渶灏忕壒寰佸�煎搴旂殑鐗瑰緛鍚戦噺
 
 if nargin < 2
     c = size(A,1);
@@ -24,8 +24,8 @@ if isSym == 1
 end;
 % [v d] = eig(A);
 
-% -------------------- 方案1 -------------------------- %
-% % 具体修改办法参照 http://ask.cvxr.com/t/eig-did-not-converge-in-prox-trace/996/16
+% -------------------- 鏂规1 -------------------------- %
+% % 鍏蜂綋淇敼鍔炴硶鍙傜収 http://ask.cvxr.com/t/eig-did-not-converge-in-prox-trace/996/16
 try
     [v,d] = eig(A);
 catch ME
@@ -36,16 +36,16 @@ catch ME
     end
 end
 
-% % % --------------------- 方案2 用SVD替换eig----------------------- %
+% % % --------------------- 鏂规2 鐢⊿VD鏇挎崲eig----------------------- %
 % % [v,d,w] = svd(A);
 % % d = d.*sign(diag(real(dot(v,w,1))));
 
 d = diag(d);
 %d = real(d);
 if isMax == 0
-    [d1, idx] = sort(d);                % 升序
+    [d1, idx] = sort(d);                % 鍗囧簭
 else
-    [d1, idx] = sort(d,'descend');      % 降序
+    [d1, idx] = sort(d,'descend');      % 闄嶅簭
 end;    
 
 idx1 = idx(1:c);
