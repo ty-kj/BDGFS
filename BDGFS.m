@@ -20,7 +20,7 @@ for iter = 1:iter_num
 
     % Fix Z,update W
     L = Laplacian(U);    
-    [W,wc]=Calau_W(X,L,lambda/beta,floor(m/3));
+    [W,wc]=UpdateW(X,L,lambda/beta,floor(m/3));
     
     obj(iter) = norm(Y-Y*Z,'fro').^2+lambda*sum(wc)+beta*trace(W'*X'*L*X*W);
 %     disp(['iter: ',num2str(iter),' obj:']);
