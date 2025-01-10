@@ -1,4 +1,4 @@
-function [A,v]=Calau_W(X,K,alpha,d)
+function [A,v]=UpdateW(X,K,alpha,d)
 %alpha: coefficient of l21
 %X: num*dim
 %d=nc-1: projection dimension
